@@ -1,0 +1,11 @@
+# Netlify detects Next.js automatically; this file just pins the settings.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+  # Canonical/sitemap URLs use Netlify's site address automatically.
+  # Once your own domain is live, set NEXT_PUBLIC_SITE_URL (e.g. https://www.rehansalt.com)
+  # in Netlify → Site configuration → Environment variables, then redeploy.

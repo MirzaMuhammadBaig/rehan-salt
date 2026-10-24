@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "siteTitle": "Rehan Salt | Fabricant et exportateur de sel rose de l’Himalaya, Pakistan",
+    "siteDescription": "Rehan Salt fabrique et exporte du sel rose de l’Himalaya depuis Jhelum, au Pakistan : sel alimentaire, lampes en sel, plaques de cuisson, sel de bain, briques, pierres à lécher et marque blanche.",
+    "aboutTitle": "À propos",
+    "aboutDescription": "Rehan Salt est un fabricant et exportateur de sel rose de l’Himalaya installé dans la Small Industrial Estate de Jhelum, au Pakistan, à proximité de la chaîne de Sel et de la mine de sel de Khewra.",
+    "productsTitle": "Produits en sel rose de l’Himalaya",
+    "productsDescription": "Produits en sel rose de l’Himalaya en gros depuis le Pakistan : sel rose alimentaire, plaques de cuisson, lampes en sel, bougeoirs, sel de bain, briques et carreaux, pierres à lécher pour animaux et sel pour halothérapie.",
+    "privateLabelTitle": "Sel rose de l’Himalaya en marque blanche",
+    "privateLabelDescription": "Lancez votre propre marque de sel rose de l’Himalaya. Rehan Salt conditionne sel rose, sel de bain, lampes et plaques de cuisson sous votre marque : sachets, pots, moulins et coffrets cadeaux.",
+    "contactTitle": "Contact et demande de devis",
+    "contactDescription": "Demandez un devis pour nos produits en sel rose de l’Himalaya. Appelez-nous ou écrivez-nous sur WhatsApp au +92 336 4421916, par e-mail à raja.jabir100@gmail.com, ou rendez-nous visite à Small Industrial Estate, Jhelum.",
+    "notFoundTitle": "Page introuvable"
+  },
+  "brand": {
+    "tag": "Sel rose de l’Himalaya · Pakistan"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "privateLabel": "Marque blanche",
+    "contact": "Contact",
+    "getQuote": "Obtenir un devis",
+    "requestQuote": "Demander un devis",
+    "chatWhatsApp": "Discuter sur WhatsApp",
+    "viewAllProducts": "Voir tous les produits",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "skipToContent": "Aller au contenu",
+    "mainNav": "Principal",
+    "email": "E-mail",
+    "language": "Langue",
+    "switchToDark": "Passer au thème sombre",
+    "switchToLight": "Passer au thème clair",
+    "whatsappFloat": "Écrivez-nous sur WhatsApp",
+    "breadcrumb": "Fil d’Ariane",
+    "menu": "Menu",
+    "appearance": "Thème",
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "site": {
+    "address": "Small Industrial Estate, Jhelum, Pendjab, Pakistan",
+    "addressShort": "Small Industrial Estate, Jhelum",
+    "hours": "Lun. – sam., 9 h – 18 h (PKT)",
+    "footerAbout": "Rehan Salt fabrique et exporte du sel rose de l’Himalaya depuis Jhelum, au Pakistan, pour les grossistes, les détaillants et les acheteurs en marque blanche du monde entier.",
+    "rights": "© {year} Rehan Salt. Tous droits réservés.",
+    "ourProducts": "Nos produits",
+    "quickLinks": "Liens rapides",
+    "contactUs": "Nous contacter",
+    "whatsappUs": "Écrivez-nous sur WhatsApp",
+    "whatsappLabel": "WhatsApp : {phone}"
+  },
+  "whatsapp": {
+    "default": "Bonjour Rehan Salt, j’aimerais en savoir plus sur vos produits en sel rose de l’Himalaya.",
+    "product": "Bonjour Rehan Salt, le produit suivant m’intéresse : {product}. Merci de me communiquer les spécifications et les prix.",
+    "quote": "Bonjour Rehan Salt, je souhaiterais obtenir un devis."
+  },
+  "common": {
+    "viewRange": "Voir la gamme",
+    "requestQuote": "Demander un devis",
+    "askWhatsApp": "Demander sur WhatsApp",
+    "formatsTitle": "Qualités, tailles et formats",
+    "packingTitle": "Options de conditionnement",
+    "home": "Accueil"
+  },
+  "categories": {
+    "edible-salt": {
+      "name": "Sel rose de l’Himalaya alimentaire",
+      "nav": "Sel alimentaire",
+      "tag": "Qualité alimentaire",
+      "card": "Sel rose, blanc et noir, de l’extra-fin au calibre moulin, pour la distribution, la restauration et les programmes en marque blanche.",
+      "long": "Sel rose de l’Himalaya de qualité alimentaire, concassé, lavé et tamisé à la granulométrie de votre choix. Nous fournissons du sel rose, blanc et noir (kala namak) en vrac pour les reconditionneurs et les industriels de l’agroalimentaire, ou conditionné et étiqueté pour la vente au détail.",
+      "formats": [
+        "Extra-fin 0.3–0.5 mm",
+        "Fin 0.5–1 mm",
+        "Moyen 1–2 mm",
+        "Gros 2–5 mm",
+        "Moulin 3–8 mm",
+        "Rose · Blanc · Noir"
+      ],
+      "packing": [
+        "Sacs PP de 25 kg",
+        "Big bags de 1 MT",
+        "Sachets pour la vente au détail",
+        "Pots et moulins",
+        "Salières",
+        "Votre marque blanche"
+      ]
+    },
+    "culinary-salt": {
+      "name": "Plaques de cuisson et articles culinaires",
+      "nav": "Plaques de cuisson",
+      "tag": "Culinaire",
+      "card": "Plaques de cuisson, blocs de service, bols et verres à shot en sel pour les cuisines, les restaurants et les gammes cadeaux.",
+      "long": "Blocs de sel massifs, découpés et polis, pour griller, refroidir et servir. Très demandés par les restaurants, les revendeurs d’articles de barbecue et les catalogues cadeaux, avec bols, verres à shot et mortiers assortis.",
+      "formats": [
+        "Plaques 8×8×1.5 in",
+        "Plaques 8×12×1.5 in",
+        "Plaques 12×12×2 in",
+        "Bols de service",
+        "Verres à shot",
+        "Mortier et pilon"
+      ],
+      "packing": [
+        "Coffrets cadeaux",
+        "Film rétractable + carton",
+        "Boîte personnalisée à votre marque"
+      ]
+    },
+    "salt-lamps": {
+      "name": "Lampes en sel rose de l’Himalaya",
+      "nav": "Lampes en sel",
+      "tag": "Décoration",
+      "card": "Lampes en roche naturelle au poids, formes façonnées et lampes-paniers en bois pour la décoration et le commerce de cadeaux.",
+      "long": "Lampes en roche naturelle vendues par tranche de poids, formes façonnées à la main et lampes-paniers en bois ou en métal garnies de morceaux de sel. Livrées avec socles en bois, ampoules et prises adaptées à votre marché.",
+      "formats": [
+        "Naturelle 2–3 kg",
+        "Naturelle 3–5 kg",
+        "Naturelle 5–50 kg",
+        "Sphère · Pyramide · Cœur",
+        "Lampes-paniers",
+        "Mini-lampes USB"
+      ],
+      "packing": [
+        "Boîte couleur individuelle",
+        "Cartons d’expédition",
+        "Prises EU · UK · US",
+        "Votre marque blanche"
+      ]
+    },
+    "candle-holders": {
+      "name": "Bougeoirs en sel",
+      "nav": "Bougeoirs",
+      "tag": "Décoration",
+      "card": "Photophores naturels et sculptés pour les gammes lifestyle, spa et hôtellerie.",
+      "long": "Bougeoirs en sel bruts ou polis, qui diffusent une lumière chaude une fois allumés. Modèles à un ou plusieurs emplacements pour boutiques de décoration, spas et hôtels.",
+      "formats": [
+        "Photophore brut naturel",
+        "Rond poli",
+        "Carré poli",
+        "Formes sculptées",
+        "Bougeoirs multi-emplacements"
+      ],
+      "packing": [
+        "Coffret cadeau",
+        "Carton en vrac",
+        "Votre marque blanche"
+      ]
+    },
+    "bath-salt": {
+      "name": "Sel de bain et de spa",
+      "nav": "Sel de bain",
+      "tag": "Bien-être",
+      "card": "Qualités pour le bain, les bains de pieds et les gommages, destinées aux marques de spa, de cosmétique et de bien-être.",
+      "long": "Sel de bain rose de l’Himalaya propre et homogène pour les spas et les marques cosmétiques. Livré en vrac pour vos mélanges, ou conditionné et parfumé selon votre cahier des charges.",
+      "formats": [
+        "Qualité bain fine",
+        "Qualité bain moyenne",
+        "Qualité bain grosse",
+        "Qualité bain de pieds",
+        "Mélanges parfumés sur demande",
+        "Pierres de massage"
+      ],
+      "packing": [
+        "Sacs de 25 kg",
+        "Sachets",
+        "Pots",
+        "Votre marque blanche"
+      ]
+    },
+    "salt-tiles": {
+      "name": "Briques et carreaux de sel",
+      "nav": "Briques et carreaux",
+      "tag": "Construction",
+      "card": "Briques, carreaux et panneaux rétroéclairés pour salles de sel, murs décoratifs et aménagements commerciaux.",
+      "long": "Briques et carreaux de sel rose de l’Himalaya découpés avec précision pour salles de sel, murs de spa, restaurants et magasins. Découpés aux dimensions standard ou sur mesure, et emballés pour un transport en toute sécurité.",
+      "formats": [
+        "Briques 8×4×2 in",
+        "Carreaux 8×8×1 in",
+        "Carreaux 8×4×1 in",
+        "Dimensions sur mesure",
+        "Panneaux muraux rétroéclairés"
+      ],
+      "packing": [
+        "Cartons",
+        "Caisses en bois palettisées",
+        "Étiquetage par projet"
+      ]
+    },
+    "lick-salt": {
+      "name": "Pierres à lécher pour animaux",
+      "nav": "Pierres à lécher",
+      "tag": "Agriculture",
+      "card": "Pierres à lécher naturelles avec corde et blocs compressés pour le bétail, les chevaux et la faune sauvage.",
+      "long": "Pierres à lécher naturelles en sel rose de l’Himalaya avec corde de suspension, ainsi que blocs compressés et morceaux en vrac pour les circuits agricoles, équins et de nutrition animale.",
+      "formats": [
+        "Pierres avec corde 2–3 kg",
+        "Pierres avec corde 3–5 kg",
+        "Blocs compressés",
+        "Morceaux à lécher en vrac"
+      ],
+      "packing": [
+        "Sous film rétractable",
+        "Sacs de 25 kg",
+        "Palettes"
+      ]
+    },
+    "salt-therapy": {
+      "name": "Thérapie par le sel (halothérapie)",
+      "nav": "Halothérapie",
+      "tag": "Bien-être",
+      "card": "Qualité pour halogénérateurs, granulés pour salles de sel et matériaux muraux pour vos projets d’halothérapie.",
+      "long": "Qualités spécifiques pour salles d’halothérapie et grottes de sel : sel micro-fin pour halogénérateurs, granulés pour les sols, briques et morceaux pour les murs.",
+      "formats": [
+        "Qualité halogénérateur",
+        "Granulés pour salle de sel",
+        "Morceaux pour sol",
+        "Briques murales"
+      ],
+      "packing": [
+        "Sacs de 25 kg",
+        "Sacs intérieurs anti-humidité",
+        "Palettes"
+      ]
+    }
+  },
+  "cta": {
+    "eyebrow": "Parlons-en",
+    "title": "Prêt à vous approvisionner en sel rose de l’Himalaya ?",
+    "text": "Indiquez-nous le produit, la quantité et la destination. Nous vous répondons avec les spécifications, les options de conditionnement et un devis clair, généralement sous un jour ouvré.",
+    "whatsapp": "WhatsApp {phone}"
+  },
+  "process": {
+    "eyebrow": "Notre méthode",
+    "title": "De la chaîne de Sel à votre entrepôt",
+    "lead": "Un processus simple et transparent : vous savez toujours ce que vous recevez et quand la marchandise part.",
+    "steps": [
+      {
+        "title": "Approvisionnement",
+        "text": "Sel gemme sélectionné dans la chaîne de Sel du Pendjab, trié par couleur, transparence et qualité."
+      },
+      {
+        "title": "Concassage et calibrage",
+        "text": "Concassé, nettoyé et tamisé à des granulométries précises. Les lampes, plaques et carreaux sont découpés et façonnés à la main."
+      },
+      {
+        "title": "Contrôle qualité",
+        "text": "Inspection visuelle et contrôle par tamisage sur chaque lot. Rapports d’analyse en laboratoire disponibles sur demande."
+      },
+      {
+        "title": "Conditionnement",
+        "text": "Conditionnement en vrac, pour la vente au détail ou en marque blanche, étiqueté pour votre marché et palettisé pour le transport."
+      },
+      {
+        "title": "Export",
+        "text": "Expéditions FOB, CFR ou CIF via Karachi, avec l’ensemble des documents d’exportation."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Les questions de nos acheteurs",
+    "items": [
+      {
+        "q": "Quelle est votre quantité minimale de commande (MOQ) ?",
+        "a": "Pour le sel alimentaire en vrac, notre MOQ standard est d’un conteneur 20-ft, mais nous acceptons aussi les commandes d’essai et les conteneurs mixtes. Les lampes, bougeoirs et produits en marque blanche ont leurs propres MOQ selon le conditionnement. Envoyez-nous votre besoin et nous vous confirmerons les conditions."
+      },
+      {
+        "q": "Puis-je obtenir des échantillons avant de commander ?",
+        "a": "Oui. Nous envoyons des échantillons pour validation de la qualité. Les frais d’échantillons et de transport sont généralement déduits de votre première commande."
+      },
+      {
+        "q": "Quelles conditions de livraison proposez-vous ?",
+        "a": "Nous expédions en FOB, CFR (C&F) et CIF via le port de Karachi, et pouvons également établir un devis EXW. Nous préparons la facture commerciale, la liste de colisage, le certificat d’origine et les autres documents exigés par votre marché."
+      },
+      {
+        "q": "Quel est le délai de production ?",
+        "a": "La plupart des commandes sont prêtes en 2 à 4 semaines après validation des échantillons et versement de l’acompte, selon la quantité et le conditionnement. Les commandes en marque blanche avec un nouvel emballage imprimé peuvent demander un peu plus de temps."
+      },
+      {
+        "q": "Quelles conditions de paiement acceptez-vous ?",
+        "a": "Virement bancaire (T/T) avec un acompte, et le solde contre documents d’expédition. Pour les commandes plus importantes, une lettre de crédit (L/C à vue) peut être envisagée."
+      },
+      {
+        "q": "D’où provient votre sel ?",
+        "a": "Notre sel provient de la chaîne de Sel, au Pendjab (Pakistan), la même ceinture minérale que la célèbre mine de sel de Khewra, source du véritable sel rose de l’Himalaya."
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Fabricant et exportateur · Jhelum, Pakistan",
+      "titleStart": "Sel rose de l’Himalaya pur,",
+      "titleEm": "expédié dans le monde entier.",
+      "lead": "Rehan Salt fournit aux grossistes, aux marques et aux distributeurs des produits en sel rose de l’Himalaya de qualité constante, avec des spécifications claires et un service export fiable.",
+      "ctaQuote": "Demander un devis export",
+      "ctaExplore": "Découvrir les produits",
+      "facts": [
+        {
+          "label": "Origine",
+          "value": "Chaîne de Sel, Khewra, Jhelum, Pakistan"
+        },
+        {
+          "label": "Modèle",
+          "value": "B2B en direct usine"
+        },
+        {
+          "label": "Gamme",
+          "value": "De la cuisine aux salles de sel"
+        },
+        {
+          "label": "Conditions",
+          "value": "FOB · CFR · CIF"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Années dans le commerce du sel"
+      },
+      {
+        "value": "25+",
+        "label": "Pays desservis"
+      },
+      {
+        "value": "500 MT",
+        "label": "Capacité de production mensuelle"
+      },
+      {
+        "value": "120+",
+        "label": "Produits, tailles et qualités"
+      }
+    ],
+    "categories": {
+      "eyebrow": "Gamme de gros",
+      "title": "Catégories à l’export",
+      "lead": "Des gammes fabriquées sur commande pour les programmes de gros : sel alimentaire, lampes, plaques de cuisson, sel de bain, briques, pierres à lécher et qualités pour halothérapie. Demandez spécifications et conditionnements à notre équipe export.",
+      "moreText": "Envie de voir toute la gamme ? Parcourez chaque catégorie avec ses qualités, tailles et options de conditionnement.",
+      "moreButton": "Voir tous les produits"
+    },
+    "offers": {
+      "wholesale": {
+        "eyebrow": "Vente en gros",
+        "title": "Approvisionnement en gros à l’export",
+        "text": "Indiquez-nous votre assortiment, vos volumes et votre destination. Nous vous répondons avec les spécifications, les options de conditionnement et les prochaines étapes commerciales.",
+        "link": "Demander un devis de gros"
+      },
+      "privateLabel": {
+        "eyebrow": "Marque blanche",
+        "title": "OEM / votre marque",
+        "text": "Créez votre propre gamme avec du sel rose de l’Himalaya en direct usine, conditionné dans vos sachets, pots ou boîtes, à vos couleurs.",
+        "link": "Découvrir la marque blanche"
+      }
+    },
+    "industries": {
+      "eyebrow": "Secteurs",
+      "title": "Pensé pour les besoins des acheteurs",
+      "lead": "Nous fournissons du sel rose de l’Himalaya aux équipes qui exigent une origine fiable, une communication claire et une vraie maîtrise de l’export.",
+      "items": [
+        {
+          "title": "Alimentaire et culinaire",
+          "text": "Sel alimentaire et culinaire pour les marques, les distributeurs, les industriels de l’agroalimentaire et la restauration."
+        },
+        {
+          "title": "Bien-être et spa",
+          "text": "Sel de bain, qualités pour halothérapie et matériaux pour salles de sel destinés aux spas et aux projets bien-être."
+        },
+        {
+          "title": "Décoration et commerce de détail",
+          "text": "Lampes en sel et bougeoirs pour la distribution, l’e-commerce et les catalogues lifestyle."
+        },
+        {
+          "title": "Agriculture et animaux",
+          "text": "Pierres à lécher et blocs compressés pour les circuits agricoles, équins et de nutrition animale."
+        }
+      ]
+    },
+    "why": {
+      "eyebrow": "Pourquoi travailler avec nous",
+      "title": "La confiance par la clarté",
+      "lead": "Les acheteurs internationaux choisissent des partenaires précis sur l’origine, les capacités et la communication, pas des promesses vagues.",
+      "imageAlt": "Intérieur d’une mine de sel gemme aux parois striées",
+      "badgeTitle": "Origine chaîne de Sel",
+      "badgeText": "Extrait de la ceinture minérale du Pendjab, au Pakistan",
+      "items": [
+        {
+          "title": "Origine authentique",
+          "text": "Sel gemme de la chaîne de Sel du Pakistan, transformé dans notre propre unité à Jhelum."
+        },
+        {
+          "title": "Prix en direct usine",
+          "text": "Aucun intermédiaire entre vous et la production : des prix et des délais transparents."
+        },
+        {
+          "title": "Calibrage constant",
+          "text": "Chaque lot est tamisé et contrôlé pour que votre prochaine commande soit identique à la précédente."
+        },
+        {
+          "title": "Réponses rapides et franches",
+          "text": "Spécifications, conditionnement, délais et documents : des réponses directes, souvent le jour même sur WhatsApp."
+        }
+      ]
+    },
+    "world": {
+      "eyebrow": "Une présence export mondiale",
+      "titleStart": "De Jhelum aux acheteurs",
+      "titleEm": "du monde entier",
+      "lead": "Des produits en sel rose de l’Himalaya expédiés en gros depuis le Pakistan vers des importateurs en Europe, en Amérique du Nord, au Moyen-Orient et en Asie-Pacifique.",
+      "globeLabel": "Rehan Salt expédie depuis Jhelum, au Pakistan, vers des acheteurs du monde entier",
+      "jhelum": "JHELUM",
+      "regions": [
+        {
+          "name": "Europe",
+          "detail": "Importateurs et chaînes de distribution"
+        },
+        {
+          "name": "Amérique du Nord",
+          "detail": "Distributeurs et e-commerce"
+        },
+        {
+          "name": "Moyen-Orient",
+          "detail": "Vente en gros et restauration"
+        },
+        {
+          "name": "Asie-Pacifique",
+          "detail": "Marques et marque blanche"
+        },
+        {
+          "name": "Afrique",
+          "detail": "Élevage et commerce alimentaire"
+        },
+        {
+          "name": "Amérique latine",
+          "detail": "Spa et bien-être"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "crumb": "À propos",
+      "eyebrow": "Notre histoire",
+      "title": "Le sel rose de l’Himalaya, travaillé avec soin",
+      "text": "Fabricant et exportateur basé à Jhelum, nous fournissons du sel rose de l’Himalaya aux acheteurs qui privilégient la régularité, l’honnêteté et les expéditions dans les délais."
+    },
+    "who": {
+      "eyebrow": "Qui sommes-nous",
+      "title": "Près de la source, tournés vers l’export",
+      "imageAlt": "Morceaux bruts de sel gemme rose de l’Himalaya",
+      "p1": "Rehan Salt est un fabricant et exportateur de sel rose de l’Himalaya installé dans la Small Industrial Estate de Jhelum, à courte distance de la chaîne de Sel et de la célèbre mine de sel de Khewra.",
+      "p2": "Nous sélectionnons le sel gemme dans la chaîne de Sel et le transformons dans notre propre unité en sel alimentaire, lampes, plaques de cuisson, bougeoirs, sel de bain, briques, carreaux et pierres à lécher. Chaque commande est calibrée, contrôlée et conditionnée selon le cahier des charges de l’acheteur.",
+      "p3": "Nos clients sont des importateurs, des distributeurs, des chaînes de magasins et des propriétaires de marques. Que vous ayez besoin d’un conteneur complet de sel en vrac ou d’une gamme en marque blanche pour la vente au détail, nous restons simples : spécifications claires, prix justes et suivi régulier jusqu’à l’arrivée de vos marchandises.",
+      "facts": [
+        {
+          "label": "Localisation",
+          "value": "Small Industrial Estate, Jhelum"
+        },
+        {
+          "label": "Création",
+          "value": "2010"
+        },
+        {
+          "label": "Capacité",
+          "value": "500 MT par mois"
+        },
+        {
+          "label": "Marchés",
+          "value": "25+ pays"
+        }
+      ]
+    },
+    "himalayan": {
+      "eyebrow": "À propos du sel rose de l’Himalaya",
+      "title": "Ce qui le rend unique",
+      "imageAlt": "Parois striées à l’intérieur d’une mine de sel gemme",
+      "p1": "Le sel rose de l’Himalaya est un sel gemme (halite) extrait de la chaîne de Sel, au Pendjab (Pakistan), au sud des contreforts de l’Himalaya. La mine de sel de Khewra, située dans cette chaîne, est l’une des plus anciennes et des plus grandes mines de sel au monde.",
+      "p2": "Ce sel est composé principalement de chlorure de sodium. Des traces de minéraux lui donnent sa couleur caractéristique, rose, rouge ou blanc cassé, qui le rend très apprécié en cuisine, pour la présentation des plats, en lampes décoratives et pour les soins de spa.",
+      "p3": "Les gisements s’étant formés il y a des centaines de millions d’années, les cristaux sont naturellement propres et ne nécessitent qu’un concassage, un lavage et un calibrage soigneux avant d’être commercialisés."
+    },
+    "values": {
+      "eyebrow": "Nos valeurs",
+      "title": "Notre façon de travailler",
+      "items": [
+        {
+          "title": "Qualité constante",
+          "text": "La qualité que vous validez sur l’échantillon est celle que vous recevez dans le conteneur."
+        },
+        {
+          "title": "Spécifications honnêtes",
+          "text": "Granulométries, poids et détails de conditionnement clairs, inscrits dans chaque devis."
+        },
+        {
+          "title": "Conditionnement flexible",
+          "text": "Des sacs de 25 kg aux emballages en marque blanche prêts à la vente sur votre marché."
+        },
+        {
+          "title": "Communication claire",
+          "text": "Un interlocuteur unique sur WhatsApp et par e-mail, avec photos et points d’étape pendant la production."
+        },
+        {
+          "title": "Expédition dans les délais",
+          "text": "Des délais réalistes, des réservations anticipées et des envois accompagnés de documents complets."
+        },
+        {
+          "title": "Partenariats durables",
+          "text": "Nous grandissons avec nos acheteurs grâce aux commandes répétées et au développement de nouveaux produits."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Construisons ensemble une chaîne d’approvisionnement fiable",
+      "text": "Envoyez-nous votre liste de produits et votre marché cible. Nous vous adresserons spécifications, échantillons et un devis adapté à votre activité."
+    }
+  },
+  "products": {
+    "hero": {
+      "crumb": "Produits",
+      "eyebrow": "Gamme de gros",
+      "title": "Nos produits en sel rose de l’Himalaya",
+      "text": "Huit catégories export, chacune disponible en plusieurs qualités, tailles et formats de conditionnement. Demandez la liste de prix complète et les spécifications."
+    },
+    "navLabel": "Catégories de produits",
+    "cta": {
+      "title": "Besoin d’un conteneur mixte ?",
+      "text": "Regroupez sel alimentaire, lampes, plaques et autres produits dans une seule expédition. Nous vous aidons à planifier les quantités et le conditionnement."
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "crumb": "Marque blanche",
+      "eyebrow": "OEM · Votre marque",
+      "title": "Votre marque. Notre sel rose de l’Himalaya.",
+      "text": "Lancez ou développez une gamme de sel rose de l’Himalaya sous votre propre marque. Nous gérons l’approvisionnement, le calibrage, le conditionnement et l’export ; vous vous concentrez sur la vente."
+    },
+    "intro": {
+      "eyebrow": "Ce que nous prenons en charge",
+      "title": "Du sel brut au produit prêt pour le rayon",
+      "lead": "Envoyez-nous votre cahier des charges, vos visuels et votre marché cible. Nous nous occupons du reste.",
+      "imageAlt": "Pots de sel avec couvercles dorés",
+      "badgeTitle": "MOQ de départ réduits",
+      "badgeText": "Séries d’essai possibles pour les nouvelles marques",
+      "items": [
+        "Choix des produits : sel rose, blanc ou noir, lampes, plaques et sel de bain",
+        "Granulométrie et poids adaptés à votre emballage",
+        "Approvisionnement et impression des emballages selon vos visuels",
+        "Étiquetage avec codes-barres et mentions propres à votre marché",
+        "Échantillons à valider avant la production en série",
+        "Palettisation, documents d’exportation et expédition"
+      ]
+    },
+    "formats": {
+      "eyebrow": "Formats d’emballage",
+      "title": "Un conditionnement à votre image",
+      "items": [
+        {
+          "title": "Sachets doypack",
+          "text": "Sachets refermables en kraft ou imprimés, de 250 g à 5 kg, avec ou sans fenêtre."
+        },
+        {
+          "title": "Pots et moulins",
+          "text": "Pots en verre et en PET, moulins rechargeables et salières, étiquetés à vos couleurs."
+        },
+        {
+          "title": "Coffrets cadeaux et boîtes de vente",
+          "text": "Boîtes imprimées pour lampes, bougeoirs, plaques de cuisson et coffrets cadeaux."
+        },
+        {
+          "title": "Vrac pour reconditionnement",
+          "text": "Sacs PP de 25 kg et big bags de 1 MT si vous conditionnez dans vos propres locaux."
+        },
+        {
+          "title": "Étiquettes et codes-barres",
+          "text": "Vos étiquettes imprimées ou apposées par nos soins, avec codes-barres et mentions exigées par votre marché."
+        },
+        {
+          "title": "Conteneurs mixtes",
+          "text": "Regroupez plusieurs SKU en marque blanche dans une seule expédition pour limiter vos stocks."
+        }
+      ]
+    },
+    "steps": {
+      "eyebrow": "Quatre étapes simples",
+      "title": "Comment fonctionne la marque blanche",
+      "items": [
+        {
+          "title": "Transmettez votre brief",
+          "text": "Produits, formats, marché cible et volumes prévus."
+        },
+        {
+          "title": "Échantillons et devis",
+          "text": "Nous envoyons des échantillons et un devis détaillé incluant les coûts d’emballage."
+        },
+        {
+          "title": "Validation des visuels",
+          "text": "Nous validons avec vous les épreuves des étiquettes et des emballages avant impression."
+        },
+        {
+          "title": "Production et expédition",
+          "text": "Production, photos de l’inspection finale et export jusqu’à votre port."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Lancez votre marque de sel rose de l’Himalaya",
+      "text": "Parlez-nous de votre marque et de votre marché. Nous vous recommanderons des produits et des emballages, et vous enverrons des échantillons."
+    }
+  },
+  "contact": {
+    "hero": {
+      "crumb": "Contact",
+      "eyebrow": "Contactez-nous",
+      "title": "Demander un devis",
+      "text": "Dites-nous ce dont vous avez besoin. Notre équipe export répond généralement sous un jour ouvré, et plus rapidement sur WhatsApp."
+    },
+    "details": {
+      "eyebrow": "Coordonnées",
+      "title": "Parlez à notre équipe export",
+      "lead": "Appelez-nous, écrivez-nous ou venez nous voir. Nous partageons volontiers photos, vidéos et échantillons avant votre commande.",
+      "whatsapp": "WhatsApp",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "address": "Adresse",
+      "hours": "Horaires d’ouverture"
+    },
+    "formTitle": "Demande de devis",
+    "requiredNote": "Les champs marqués d’un * sont obligatoires.",
+    "map": {
+      "eyebrow": "Nous trouver",
+      "iframeTitle": "Carte de Small Industrial Estate, Jhelum"
+    }
+  },
+  "form": {
+    "name": "Nom complet",
+    "company": "Société",
+    "email": "E-mail",
+    "phone": "Téléphone / WhatsApp",
+    "country": "Pays",
+    "product": "Produit souhaité",
+    "quantity": "Quantité estimée",
+    "quantityPlaceholder": "ex. 1 × conteneur 20 ft, 5 tonnes, 2 000 lampes",
+    "message": "Message",
+    "messagePlaceholder": "Qualités, tailles, conditionnement, port de destination, prix cible…",
+    "send": "Envoyer la demande",
+    "sending": "Envoi en cours…",
+    "sendWhatsApp": "Envoyer via WhatsApp",
+    "note": "Vos coordonnées servent uniquement à répondre à votre demande.",
+    "optionPrivateLabel": "Marque blanche / OEM",
+    "optionMixed": "Conteneur mixte",
+    "optionOther": "Autre",
+    "errors": {
+      "name": "Veuillez saisir votre nom",
+      "email": "Veuillez saisir une adresse e-mail valide",
+      "country": "Veuillez indiquer votre pays",
+      "message": "Veuillez ajouter quelques détails (10 caractères minimum)"
+    },
+    "successTitle": "Merci ! Votre demande a bien été envoyée.",
+    "successText": "Notre équipe export vous répondra sous un jour ouvré.",
+    "errorTitle": "Désolé, le formulaire n’a pas pu être envoyé pour le moment.",
+    "errorText": "Veuillez nous l’envoyer sur WhatsApp ou par e-mail à {email}.",
+    "whatsappAction": "WhatsApp",
+    "confirm": {
+      "title": "Vérifiez vos informations",
+      "text": "Nous vous répondrons à cette adresse e-mail. Est-elle correcte ?",
+      "suggestion": "Vouliez-vous dire {email} ?",
+      "useSuggestion": "Oui, utiliser celle-ci",
+      "summary": "Votre demande",
+      "edit": "Modifier",
+      "send": "Oui, envoyer la demande",
+      "close": "Fermer"
+    },
+    "sentText": "Nous vous répondrons à {email} sous un jour ouvré.",
+    "sendAnother": "Envoyer une autre demande"
+  },
+  "notFound": {
+    "eyebrow": "Erreur 404",
+    "title": "Cette page est introuvable",
+    "text": "Le lien est peut-être rompu ou la page a été déplacée.",
+    "home": "Retour à l’accueil",
+    "products": "Voir les produits"
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "siteTitle": "Rehan Salt | Hersteller & Exporteur von rosa Himalaya-Salz, Pakistan",
+    "siteDescription": "Rehan Salt produziert und exportiert rosa Himalaya-Salz aus Jhelum, Pakistan: Speisesalz, Salzlampen, Salzplatten zum Kochen, Badesalz, Salzziegel, Lecksteine und Private Label.",
+    "aboutTitle": "Über uns",
+    "aboutDescription": "Rehan Salt ist ein Hersteller und Exporteur von rosa Himalaya-Salz mit Sitz im Small Industrial Estate, Jhelum, Pakistan, nahe der Salt Range und dem Salzbergwerk Khewra.",
+    "productsTitle": "Produkte aus rosa Himalaya-Salz",
+    "productsDescription": "Rosa Himalaya-Salz aus Pakistan im Großhandel: Speisesalz, Salzplatten zum Kochen, Salzlampen, Kerzenhalter, Badesalz, Salzziegel und Fliesen, Lecksteine für Tiere und Salz für die Halotherapie.",
+    "privateLabelTitle": "Rosa Himalaya-Salz als Private Label",
+    "privateLabelDescription": "Starten Sie Ihre eigene Marke für rosa Himalaya-Salz. Rehan Salt verpackt rosa Salz, Badesalz, Lampen und Salzplatten unter Ihrem Label: Beutel, Gläser, Mühlen und Geschenkboxen.",
+    "contactTitle": "Kontakt & Angebotsanfrage",
+    "contactDescription": "Fordern Sie ein Angebot für Produkte aus rosa Himalaya-Salz an. Rufen Sie an oder schreiben Sie per WhatsApp an +92 336 4421916, per E-Mail an raja.jabir100@gmail.com, oder besuchen Sie uns im Small Industrial Estate, Jhelum.",
+    "notFoundTitle": "Seite nicht gefunden"
+  },
+  "brand": {
+    "tag": "Rosa Himalaya-Salz · Pakistan"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "privateLabel": "Private Label",
+    "contact": "Kontakt",
+    "getQuote": "Angebot anfordern",
+    "requestQuote": "Angebot anfordern",
+    "chatWhatsApp": "WhatsApp-Chat",
+    "viewAllProducts": "Alle Produkte ansehen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "skipToContent": "Zum Inhalt springen",
+    "mainNav": "Hauptnavigation",
+    "email": "E-Mail",
+    "language": "Sprache",
+    "switchToDark": "Zum dunklen Design wechseln",
+    "switchToLight": "Zum hellen Design wechseln",
+    "whatsappFloat": "Schreiben Sie uns auf WhatsApp",
+    "breadcrumb": "Brotkrümelnavigation",
+    "menu": "Menü",
+    "appearance": "Design",
+    "light": "Hell",
+    "dark": "Dunkel"
+  },
+  "site": {
+    "address": "Small Industrial Estate, Jhelum, Punjab, Pakistan",
+    "addressShort": "Small Industrial Estate, Jhelum",
+    "hours": "Mo – Sa, 9:00 – 18:00 Uhr (PKT)",
+    "footerAbout": "Rehan Salt produziert und exportiert rosa Himalaya-Salz aus Jhelum, Pakistan, für Großhändler, Einzelhändler und Private-Label-Kunden weltweit.",
+    "rights": "© {year} Rehan Salt. Alle Rechte vorbehalten.",
+    "ourProducts": "Unsere Produkte",
+    "quickLinks": "Schnellzugriff",
+    "contactUs": "Kontakt",
+    "whatsappUs": "Per WhatsApp schreiben",
+    "whatsappLabel": "WhatsApp: {phone}"
+  },
+  "whatsapp": {
+    "default": "Hallo Rehan Salt, ich möchte mehr über Ihre Produkte aus rosa Himalaya-Salz erfahren.",
+    "product": "Hallo Rehan Salt, ich interessiere mich für {product}. Bitte senden Sie mir Spezifikationen und Preise.",
+    "quote": "Hallo Rehan Salt, ich hätte gern ein Angebot."
+  },
+  "common": {
+    "viewRange": "Sortiment ansehen",
+    "requestQuote": "Angebot anfordern",
+    "askWhatsApp": "Per WhatsApp fragen",
+    "formatsTitle": "Qualitäten, Größen & Formate",
+    "packingTitle": "Verpackungsoptionen",
+    "home": "Startseite"
+  },
+  "categories": {
+    "edible-salt": {
+      "name": "Rosa Himalaya-Speisesalz",
+      "nav": "Speisesalz",
+      "tag": "Lebensmittelqualität",
+      "card": "Rosa, weißes und schwarzes Salz von extrafein bis Mühlenkörnung für Einzelhandel, Gastronomie und Private-Label-Programme.",
+      "long": "Rosa Himalaya-Salz in Lebensmittelqualität, gebrochen, gewaschen und auf Ihre gewünschte Körnung gesiebt. Wir liefern rosa, weißes und schwarzes Salz (Kala Namak) lose für Abpacker und Lebensmittelhersteller oder verpackt und etikettiert für das Einzelhandelsregal.",
+      "formats": [
+        "Extrafein 0,3–0,5 mm",
+        "Fein 0,5–1 mm",
+        "Mittel 1–2 mm",
+        "Grob 2–5 mm",
+        "Mühlenkörnung 3–8 mm",
+        "Rosa · Weiß · Schwarz"
+      ],
+      "packing": [
+        "25-kg-PP-Säcke",
+        "1-MT-Big-Bags",
+        "Einzelhandelsbeutel",
+        "Gläser & Mühlen",
+        "Streuer",
+        "Ihr Private Label"
+      ]
+    },
+    "culinary-salt": {
+      "name": "Salzplatten & Kulinarik",
+      "nav": "Salzplatten",
+      "tag": "Kulinarik",
+      "card": "Salzplatten zum Kochen, Servierblöcke, Schalen und Shotgläser für Küchen, Restaurants und Geschenksortimente.",
+      "long": "Massive Salzblöcke, geschnitten und poliert zum Grillen, Kühlen und Servieren. Gefragt bei Restaurants, Grillfachhändlern und Geschenkkatalogen, ergänzt durch passende Schalen, Shotgläser und Mörser-Sets.",
+      "formats": [
+        "Platten 8×8×1.5 in",
+        "Platten 8×12×1.5 in",
+        "Platten 12×12×2 in",
+        "Servierschalen",
+        "Shotgläser",
+        "Mörser & Stößel"
+      ],
+      "packing": [
+        "Geschenkboxen",
+        "Schrumpffolie + Karton",
+        "Box mit Ihrem Branding"
+      ]
+    },
+    "salt-lamps": {
+      "name": "Rosa Himalaya-Salzlampen",
+      "nav": "Salzlampen",
+      "tag": "Wohndeko",
+      "card": "Natürliche Steinlampen nach Gewicht, geformte Lampen und Holzkorblampen für den Deko- und Geschenkhandel.",
+      "long": "Natürliche Steinlampen nach Gewichtsklassen, handgefertigte Formen sowie Holz- oder Metallkorblampen mit Salzbrocken. Geliefert mit Holzsockel, Leuchtmittel und dem passenden Steckertyp für Ihren Markt.",
+      "formats": [
+        "Natur 2–3 kg",
+        "Natur 3–5 kg",
+        "Natur 5–50 kg",
+        "Kugel · Pyramide · Herz",
+        "Korblampen",
+        "USB-Minilampen"
+      ],
+      "packing": [
+        "Einzelner Farbkarton",
+        "Umkartons",
+        "EU · UK · US-Stecker",
+        "Ihr Private Label"
+      ]
+    },
+    "candle-holders": {
+      "name": "Salz-Kerzenhalter",
+      "nav": "Kerzenhalter",
+      "tag": "Wohndeko",
+      "card": "Natürliche und geschnitzte Teelichthalter für Lifestyle-, Spa- und Hotelsortimente.",
+      "long": "Naturbelassene und polierte Kerzenhalter aus Salz, die im Kerzenlicht warm leuchten. Modelle mit einer oder mehreren Öffnungen für Lifestyle-Geschäfte, Spas und Hoteldekoration.",
+      "formats": [
+        "Naturbelassener Teelichthalter",
+        "Poliert rund",
+        "Poliert eckig",
+        "Geschnitzte Formen",
+        "Mehrfach-Kerzenhalter"
+      ],
+      "packing": [
+        "Geschenkbox",
+        "Sammelkarton",
+        "Ihr Private Label"
+      ]
+    },
+    "bath-salt": {
+      "name": "Bade- & Spa-Salz",
+      "nav": "Badesalz",
+      "tag": "Wellness",
+      "card": "Körnungen für Bad, Fußbad und Peeling für Spa-, Kosmetik- und Wellnessmarken.",
+      "long": "Sauberes rosa Himalaya-Badesalz in gleichbleibender Qualität für Spa-Betreiber und Kosmetikmarken. Lose zum Mischen oder verpackt und beduftet nach Ihrer Spezifikation.",
+      "formats": [
+        "Badesalz fein",
+        "Badesalz mittel",
+        "Badesalz grob",
+        "Fußbad-Körnung",
+        "Duftmischungen auf Anfrage",
+        "Massagesteine"
+      ],
+      "packing": [
+        "25-kg-Säcke",
+        "Beutel",
+        "Gläser",
+        "Ihr Private Label"
+      ]
+    },
+    "salt-tiles": {
+      "name": "Salzziegel & Fliesen",
+      "nav": "Ziegel & Fliesen",
+      "tag": "Bau",
+      "card": "Ziegel, Fliesen und hinterleuchtete Paneele für Salzräume, Akzentwände und gewerblichen Innenausbau.",
+      "long": "Präzise geschnittene rosa Himalaya-Salzziegel und -Fliesen für Salzräume, Spa-Wände, Restaurants und Ladeneinrichtungen. In Standard- oder Sondermaßen geschnitten und transportsicher verpackt.",
+      "formats": [
+        "Ziegel 8×4×2 in",
+        "Fliesen 8×8×1 in",
+        "Fliesen 8×4×1 in",
+        "Sondermaße",
+        "Hinterleuchtete Wandpaneele"
+      ],
+      "packing": [
+        "Kartons",
+        "Holzkisten auf Paletten",
+        "Projektbezogene Etikettierung"
+      ]
+    },
+    "lick-salt": {
+      "name": "Lecksteine für Tiere",
+      "nav": "Lecksteine",
+      "tag": "Landwirtschaft",
+      "card": "Natürliche Lecksteine mit Seil und gepresste Blöcke für Nutztiere, Pferde und Wild.",
+      "long": "Natürliche rosa Himalaya-Lecksteine mit Seil zum Aufhängen sowie gepresste Leckblöcke und lose Salzbrocken für Landwirtschaft, Pferdehaltung und Tierernährung.",
+      "formats": [
+        "Lecksteine mit Seil 2–3 kg",
+        "Lecksteine mit Seil 3–5 kg",
+        "Gepresste Blöcke",
+        "Lose Leckbrocken"
+      ],
+      "packing": [
+        "Schrumpffolie",
+        "25-kg-Säcke",
+        "Paletten"
+      ]
+    },
+    "salt-therapy": {
+      "name": "Salztherapie (Halotherapie)",
+      "nav": "Salztherapie",
+      "tag": "Wellness",
+      "card": "Salz für Halogeneratoren, Granulat für Salzräume und Wandmaterial für Halotherapie-Projekte.",
+      "long": "Spezialqualitäten für Halotherapie-Räume und Salzgrotten: mikrofeines Salz für Halogeneratoren, Granulat für Bodenschüttungen sowie Ziegel und Brocken für Wände.",
+      "formats": [
+        "Halogenerator-Qualität",
+        "Salzraum-Granulat",
+        "Brocken für Bodenschüttung",
+        "Wandziegel"
+      ],
+      "packing": [
+        "25-kg-Säcke",
+        "Feuchtigkeitsschutz-Inliner",
+        "Paletten"
+      ]
+    }
+  },
+  "cta": {
+    "eyebrow": "Sprechen Sie uns an",
+    "title": "Sie möchten rosa Himalaya-Salz beziehen?",
+    "text": "Nennen Sie uns Produkt, Menge und Zielort. Sie erhalten Spezifikationen, Verpackungsoptionen und ein klares Angebot, in der Regel innerhalb eines Werktags.",
+    "whatsapp": "WhatsApp {phone}"
+  },
+  "process": {
+    "eyebrow": "So arbeiten wir",
+    "title": "Von der Salt Range in Ihr Lager",
+    "lead": "Ein einfacher, transparenter Ablauf: Sie wissen jederzeit, was Sie erhalten und wann die Ware verschifft wird.",
+    "steps": [
+      {
+        "title": "Beschaffung",
+        "text": "Ausgewähltes Steinsalz aus der Salt Range im Punjab, sortiert nach Farbe, Reinheit und Qualität."
+      },
+      {
+        "title": "Brechen & Sieben",
+        "text": "Gebrochen, gereinigt und auf exakte Körnungen gesiebt. Lampen, Platten und Fliesen werden von Hand geschnitten und geformt."
+      },
+      {
+        "title": "Qualitätskontrolle",
+        "text": "Sichtprüfung und Siebkontrolle bei jeder Charge. Laboranalysen auf Anfrage."
+      },
+      {
+        "title": "Verpackung",
+        "text": "Lose, im Einzelhandelsformat oder als Private Label, etikettiert für Ihren Markt und für den Transport palettiert."
+      },
+      {
+        "title": "Export",
+        "text": "Verschiffung FOB, CFR oder CIF über Karatschi mit vollständigen Exportdokumenten."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufige Fragen von Einkäufern",
+    "items": [
+      {
+        "q": "Wie hoch ist Ihre Mindestbestellmenge (MOQ)?",
+        "a": "Für Speisesalz in loser Ware beträgt unsere Standard-MOQ einen 20-ft-Container, wir nehmen aber auch Probe- und Mischcontainer-Aufträge an. Für Lampen, Kerzenhalter und Private-Label-Produkte gelten je nach Verpackung eigene Mindestmengen. Senden Sie uns Ihren Bedarf, und wir bestätigen die Details."
+      },
+      {
+        "q": "Kann ich vor der Bestellung Muster erhalten?",
+        "a": "Ja. Wir senden Muster zur Qualitätsfreigabe. Muster- und Kurierkosten werden in der Regel mit Ihrer ersten Bestellung verrechnet."
+      },
+      {
+        "q": "Welche Lieferbedingungen bieten Sie an?",
+        "a": "Wir liefern FOB, CFR (C&F) und CIF über den Hafen Karatschi und können auch EXW anbieten. Wir erstellen Handelsrechnung, Packliste, Ursprungszeugnis und weitere Dokumente, die Ihr Markt verlangt."
+      },
+      {
+        "q": "Wie lange dauert die Produktion?",
+        "a": "Die meisten Aufträge sind 2–4 Wochen nach Musterfreigabe und Anzahlung versandbereit, abhängig von Menge und Verpackung. Private-Label-Aufträge mit neu bedruckter Verpackung können etwas länger dauern."
+      },
+      {
+        "q": "Welche Zahlungsbedingungen akzeptieren Sie?",
+        "a": "Banküberweisung (T/T) mit Anzahlung und Restzahlung gegen Versanddokumente. Bei größeren Aufträgen ist auch ein Akkreditiv (L/C at sight) möglich."
+      },
+      {
+        "q": "Woher stammt Ihr Salz?",
+        "a": "Unser Salz stammt aus der Salt Range im Punjab, Pakistan, demselben Mineralgürtel, in dem auch das historische Salzbergwerk Khewra liegt, und dem Ursprung echten rosa Himalaya-Salzes."
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Hersteller & Exporteur · Jhelum, Pakistan",
+      "titleStart": "Reines rosa Himalaya-Salz,",
+      "titleEm": "weltweit geliefert.",
+      "lead": "Rehan Salt beliefert Großhändler, Marken und Distributoren mit Produkten aus rosa Himalaya-Salz in gleichbleibender Qualität, mit klaren Spezifikationen und zuverlässigem Export-Service.",
+      "ctaQuote": "Exportangebot anfordern",
+      "ctaExplore": "Produkte entdecken",
+      "facts": [
+        {
+          "label": "Herkunft",
+          "value": "Salt Range, Khewra, Jhelum, Pakistan"
+        },
+        {
+          "label": "Modell",
+          "value": "B2B direkt ab Werk"
+        },
+        {
+          "label": "Sortiment",
+          "value": "Von Küche bis Salzraum"
+        },
+        {
+          "label": "Konditionen",
+          "value": "FOB · CFR · CIF"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Jahre im Salzhandel"
+      },
+      {
+        "value": "25+",
+        "label": "Belieferte Länder"
+      },
+      {
+        "value": "500 MT",
+        "label": "Monatliche Produktionskapazität"
+      },
+      {
+        "value": "120+",
+        "label": "Produkte, Größen & Qualitäten"
+      }
+    ],
+    "categories": {
+      "eyebrow": "Großhandelssortiment",
+      "title": "Exportkategorien",
+      "lead": "Auftragsbezogene Produktlinien für Großhandelsprogramme: Speisesalz, Lampen, Salzplatten, Badesalz, Ziegel, Lecksteine und Therapiequalitäten. Spezifikationen und Verpackung erhalten Sie von unserem Exportteam.",
+      "moreText": "Sie möchten das gesamte Sortiment sehen? Entdecken Sie alle Kategorien mit Qualitäten, Größen und Verpackungsoptionen.",
+      "moreButton": "Alle Produkte ansehen"
+    },
+    "offers": {
+      "wholesale": {
+        "eyebrow": "Großhandel",
+        "title": "Großhandelsbelieferung für den Export",
+        "text": "Nennen Sie uns Produktmix, Menge und Zielort. Wir antworten mit Spezifikationen, Verpackungsoptionen und den nächsten kaufmännischen Schritten.",
+        "link": "Großhandelsangebot anfordern"
+      },
+      "privateLabel": {
+        "eyebrow": "Private Label",
+        "title": "OEM / Ihre Marke",
+        "text": "Bauen Sie Ihre eigene Markenlinie mit rosa Himalaya-Salz direkt ab Werk auf, verpackt in Ihren Beuteln, Gläsern oder Boxen mit Ihrem Design.",
+        "link": "Private Label entdecken"
+      }
+    },
+    "industries": {
+      "eyebrow": "Branchen",
+      "title": "Für Ihre Anwendung gemacht",
+      "lead": "Wir liefern Programme mit rosa Himalaya-Salz für Unternehmen, die gesicherte Herkunft, klare Kommunikation und Exportkompetenz benötigen.",
+      "items": [
+        {
+          "title": "Lebensmittel & Kulinarik",
+          "text": "Speise- und Gourmetsalz für Marken, Distributoren, Lebensmittelhersteller und Gastronomie-Einkäufer."
+        },
+        {
+          "title": "Wellness & Spa",
+          "text": "Badesalz, Therapiequalitäten und Materialien für Salzräume für Spas und Wellnessprojekte."
+        },
+        {
+          "title": "Wohnen & Dekoration",
+          "text": "Salzlampen und Kerzenhalter für Einzelhandel, E-Commerce und Lifestyle-Kataloge."
+        },
+        {
+          "title": "Landwirtschaft & Tierhaltung",
+          "text": "Lecksteine und gepresste Blöcke für Landwirtschaft, Pferdehaltung und Tierernährung."
+        }
+      ]
+    },
+    "why": {
+      "eyebrow": "Warum Einkäufer mit uns arbeiten",
+      "title": "Vertrauen durch Klarheit",
+      "lead": "Internationale Einkäufer wählen Partner, die konkret über Herkunft, Leistungsfähigkeit und Kommunikation sprechen, statt vage Versprechen zu machen.",
+      "imageAlt": "In einem Steinsalzbergwerk mit gestreiften Salzwänden",
+      "badgeTitle": "Herkunft Salt Range",
+      "badgeText": "Gewonnen im Mineralgürtel des Punjab, Pakistan",
+      "items": [
+        {
+          "title": "Echte Herkunft",
+          "text": "Steinsalz aus der Salt Range in Pakistan, verarbeitet in unserem eigenen Betrieb in Jhelum."
+        },
+        {
+          "title": "Preise direkt ab Werk",
+          "text": "Keine Zwischenhändler zwischen Ihnen und der Produktion, daher klare Preise und Lieferzeiten."
+        },
+        {
+          "title": "Gleichbleibende Körnung",
+          "text": "Jede Charge wird gesiebt und geprüft, damit Ihre nächste Bestellung der letzten entspricht."
+        },
+        {
+          "title": "Schnelle, ehrliche Antworten",
+          "text": "Spezifikationen, Verpackung, Lieferzeiten und Dokumente direkt beantwortet, per WhatsApp oft noch am selben Tag."
+        }
+      ]
+    },
+    "world": {
+      "eyebrow": "Weltweiter Export",
+      "titleStart": "Von Jhelum zu Einkäufern",
+      "titleEm": "weltweit",
+      "lead": "Produkte aus rosa Himalaya-Salz im Großhandel, verschifft aus Pakistan an Importeure in Europa, Nordamerika, dem Nahen Osten und im asiatisch-pazifischen Raum.",
+      "globeLabel": "Rehan Salt liefert von Jhelum, Pakistan, an Einkäufer weltweit",
+      "jhelum": "JHELUM",
+      "regions": [
+        {
+          "name": "Europa",
+          "detail": "Importeure & Handelsketten"
+        },
+        {
+          "name": "Nordamerika",
+          "detail": "Distributoren & E-Commerce"
+        },
+        {
+          "name": "Naher Osten",
+          "detail": "Großhandel & Gastronomie"
+        },
+        {
+          "name": "Asien-Pazifik",
+          "detail": "Marken & Private Label"
+        },
+        {
+          "name": "Afrika",
+          "detail": "Tierhaltung & Lebensmittelhandel"
+        },
+        {
+          "name": "Lateinamerika",
+          "detail": "Spa & Wellness"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "crumb": "Über uns",
+      "eyebrow": "Unsere Geschichte",
+      "title": "Rosa Himalaya-Salz mit Sorgfalt verarbeitet",
+      "text": "Ein Hersteller und Exporteur aus Jhelum, der rosa Himalaya-Salz an Einkäufer liefert, denen gleichbleibende Qualität, Ehrlichkeit und pünktliche Lieferung wichtig sind."
+    },
+    "who": {
+      "eyebrow": "Wer wir sind",
+      "title": "Nah an der Quelle, ausgerichtet auf den Export",
+      "imageAlt": "Rohe Brocken aus rosa Himalaya-Steinsalz",
+      "p1": "Rehan Salt ist ein Hersteller und Exporteur von rosa Himalaya-Salz mit Sitz im Small Industrial Estate in Jhelum, nur eine kurze Strecke von der Salt Range und dem historischen Salzbergwerk Khewra entfernt.",
+      "p2": "Wir wählen Steinsalz aus der Salt Range aus und verarbeiten es in unserem eigenen Betrieb zu Speisesalz, Lampen, Salzplatten, Kerzenhaltern, Badesalz, Ziegeln, Fliesen und Lecksteinen. Jeder Auftrag wird nach den Vorgaben des Kunden sortiert, geprüft und verpackt.",
+      "p3": "Zu unseren Kunden zählen Importeure, Distributoren, Handelsketten und Markeninhaber. Ob Sie einen vollen Container loses Salz oder eine Private-Label-Linie für den Einzelhandel benötigen: Wir halten den Ablauf einfach, mit klaren Spezifikationen, fairen Preisen und regelmäßigen Updates bis zur Ankunft Ihrer Ware.",
+      "facts": [
+        {
+          "label": "Standort",
+          "value": "Small Industrial Estate, Jhelum"
+        },
+        {
+          "label": "Gegründet",
+          "value": "2010"
+        },
+        {
+          "label": "Kapazität",
+          "value": "500 MT pro Monat"
+        },
+        {
+          "label": "Märkte",
+          "value": "25+ Länder"
+        }
+      ]
+    },
+    "himalayan": {
+      "eyebrow": "Über rosa Himalaya-Salz",
+      "title": "Was es besonders macht",
+      "imageAlt": "Gestreifte Wände in einem Steinsalzbergwerk",
+      "p1": "Rosa Himalaya-Salz ist Steinsalz (Halit) aus der Salt Range im Punjab, Pakistan, südlich der Ausläufer des Himalaya. Das Salzbergwerk Khewra in diesem Gebirgszug zählt zu den ältesten und größten Salzbergwerken der Welt.",
+      "p2": "Das Salz besteht überwiegend aus Natriumchlorid. Spurenelemente verleihen ihm seine bekannte rosa, rote oder cremeweiße Farbe, weshalb es beim Kochen, für die Präsentation von Speisen, für dekorative Lampen und für Spa-Anwendungen beliebt ist.",
+      "p3": "Da die Lagerstätten vor Hunderten Millionen Jahren entstanden sind, sind die Kristalle von Natur aus sauber und müssen nur sorgfältig gebrochen, gewaschen und sortiert werden, um marktreif zu sein."
+    },
+    "values": {
+      "eyebrow": "Unsere Werte",
+      "title": "Wie wir arbeiten",
+      "items": [
+        {
+          "title": "Gleichbleibende Qualität",
+          "text": "Die Qualität, die Sie beim Muster freigeben, erhalten Sie auch im Container."
+        },
+        {
+          "title": "Ehrliche Spezifikationen",
+          "text": "Klare Körnungen, Gewichte und Verpackungsdetails, schriftlich in jedem Angebot."
+        },
+        {
+          "title": "Flexible Verpackung",
+          "text": "Von 25-kg-Säcken bis zu regalfertigen Private-Label-Packungen für Ihren Markt."
+        },
+        {
+          "title": "Klare Kommunikation",
+          "text": "Ein fester Ansprechpartner per WhatsApp und E-Mail, mit Fotos und Updates während der Produktion."
+        },
+        {
+          "title": "Pünktliche Lieferung",
+          "text": "Realistische Lieferzeiten, frühzeitig gebucht und mit vollständigen Dokumenten verschifft."
+        },
+        {
+          "title": "Langfristige Partnerschaft",
+          "text": "Wir wachsen mit unseren Kunden durch Folgeaufträge und neue Produktentwicklungen."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bauen wir eine zuverlässige Lieferkette auf",
+      "text": "Senden Sie uns Ihre Produktliste und Ihren Zielmarkt. Wir schicken Ihnen Spezifikationen, Muster und ein auf Ihr Geschäft zugeschnittenes Angebot."
+    }
+  },
+  "products": {
+    "hero": {
+      "crumb": "Produkte",
+      "eyebrow": "Großhandelssortiment",
+      "title": "Unsere Produkte aus rosa Himalaya-Salz",
+      "text": "Acht Exportkategorien, jeweils in mehreren Qualitäten, Größen und Verpackungsformaten erhältlich. Fordern Sie die vollständige Preisliste und Spezifikationen an."
+    },
+    "navLabel": "Produktkategorien",
+    "cta": {
+      "title": "Sie benötigen einen Mischcontainer?",
+      "text": "Kombinieren Sie Speisesalz, Lampen, Platten und weitere Produkte in einer Sendung. Wir helfen Ihnen bei der Planung von Mengen und Verpackung."
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "crumb": "Private Label",
+      "eyebrow": "OEM · Ihre Marke",
+      "title": "Ihre Marke. Unser rosa Himalaya-Salz.",
+      "text": "Starten oder erweitern Sie eine Linie mit rosa Himalaya-Salz unter Ihrem eigenen Label. Wir übernehmen Beschaffung, Sortierung, Verpackung und Export, Sie konzentrieren sich auf den Verkauf."
+    },
+    "intro": {
+      "eyebrow": "Was wir übernehmen",
+      "title": "Alles vom Salz bis zum regalfertigen Produkt",
+      "lead": "Senden Sie uns Ihr Briefing, Ihre Druckvorlagen und Ihren Zielmarkt. Um den Rest kümmern wir uns.",
+      "imageAlt": "Salzgläser mit goldenen Deckeln",
+      "badgeTitle": "Niedrige Einstiegs-MOQs",
+      "badgeText": "Probeläufe für neue Marken möglich",
+      "items": [
+        "Produktauswahl: rosa, weißes oder schwarzes Salz, Lampen, Platten und Badesalz",
+        "Körnung und Gewicht abgestimmt auf Ihre Verpackung",
+        "Beschaffung und Bedruckung der Verpackung nach Ihren Vorlagen",
+        "Etikettierung mit Barcodes und Marktangaben",
+        "Muster zur Freigabe vor der Serienproduktion",
+        "Palettierung, Exportdokumente und Versand"
+      ]
+    },
+    "formats": {
+      "eyebrow": "Verpackungsformate",
+      "title": "Verpackt nach Ihren Wünschen",
+      "items": [
+        {
+          "title": "Standbodenbeutel",
+          "text": "Wiederverschließbare Kraft- oder bedruckte Beutel von 250 g bis 5 kg, mit oder ohne Sichtfenster."
+        },
+        {
+          "title": "Gläser & Mühlen",
+          "text": "Glas- und PET-Gläser, nachfüllbare Mühlen und Streuer, etikettiert mit Ihrem Design."
+        },
+        {
+          "title": "Geschenk- & Verkaufsboxen",
+          "text": "Bedruckte Boxen für Lampen, Kerzenhalter, Salzplatten und Geschenksets."
+        },
+        {
+          "title": "Lose Ware zum Abpacken",
+          "text": "25-kg-PP-Säcke und 1-MT-Big-Bags, wenn Sie in Ihrem eigenen Betrieb abpacken."
+        },
+        {
+          "title": "Etiketten & Barcodes",
+          "text": "Ihre Etiketten, von uns gedruckt oder angebracht, mit Barcodes und den Angaben, die Ihr Markt verlangt."
+        },
+        {
+          "title": "Mischcontainer",
+          "text": "Kombinieren Sie mehrere Private-Label-SKUs in einer Sendung, um Ihren Lagerbestand schlank zu halten."
+        }
+      ]
+    },
+    "steps": {
+      "eyebrow": "Vier einfache Schritte",
+      "title": "So funktioniert Private Label",
+      "items": [
+        {
+          "title": "Briefing senden",
+          "text": "Produkte, Packungsgrößen, Zielmarkt und erwartete Mengen."
+        },
+        {
+          "title": "Muster & Angebot",
+          "text": "Wir senden Muster und ein detailliertes Angebot inklusive Verpackungskosten."
+        },
+        {
+          "title": "Design freigeben",
+          "text": "Wir stimmen Etiketten und Verpackungsandrucke vor dem Druck mit Ihnen ab."
+        },
+        {
+          "title": "Produktion & Versand",
+          "text": "Produktion, Fotos der Endkontrolle und Export bis zu Ihrem Hafen."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Starten Sie Ihre Marke für rosa Himalaya-Salz",
+      "text": "Erzählen Sie uns von Ihrer Marke und Ihrem Markt. Wir empfehlen passende Produkte und Verpackungen und senden Ihnen Muster."
+    }
+  },
+  "contact": {
+    "hero": {
+      "crumb": "Kontakt",
+      "eyebrow": "Kontakt aufnehmen",
+      "title": "Angebot anfordern",
+      "text": "Teilen Sie uns mit, was Sie benötigen. Unser Exportteam antwortet in der Regel innerhalb eines Werktags, per WhatsApp noch schneller."
+    },
+    "details": {
+      "eyebrow": "Kontaktdaten",
+      "title": "Sprechen Sie mit unserem Exportteam",
+      "lead": "Rufen Sie an, schreiben Sie uns oder besuchen Sie uns. Gerne senden wir Ihnen vor Ihrer Bestellung Fotos, Videos und Muster.",
+      "whatsapp": "WhatsApp",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "hours": "Geschäftszeiten"
+    },
+    "formTitle": "Angebotsanfrage",
+    "requiredNote": "Mit * markierte Felder sind Pflichtfelder.",
+    "map": {
+      "eyebrow": "So finden Sie uns",
+      "iframeTitle": "Karte mit dem Small Industrial Estate, Jhelum"
+    }
+  },
+  "form": {
+    "name": "Vollständiger Name",
+    "company": "Unternehmen",
+    "email": "E-Mail",
+    "phone": "Telefon / WhatsApp",
+    "country": "Land",
+    "product": "Gewünschtes Produkt",
+    "quantity": "Geschätzte Menge",
+    "quantityPlaceholder": "z. B. 1 × 20-ft-Container, 5 Tonnen, 2.000 Lampen",
+    "message": "Nachricht",
+    "messagePlaceholder": "Qualitäten, Größen, Verpackung, Zielhafen, Zielpreis …",
+    "send": "Anfrage senden",
+    "sending": "Wird gesendet …",
+    "sendWhatsApp": "Per WhatsApp senden",
+    "note": "Wir verwenden Ihre Angaben ausschließlich zur Beantwortung Ihrer Anfrage.",
+    "optionPrivateLabel": "Private Label / OEM",
+    "optionMixed": "Mischcontainer",
+    "optionOther": "Sonstiges",
+    "errors": {
+      "name": "Bitte geben Sie Ihren Namen ein",
+      "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "country": "Bitte geben Sie Ihr Land ein",
+      "message": "Bitte geben Sie einige Details an (mindestens 10 Zeichen)"
+    },
+    "successTitle": "Vielen Dank! Ihre Anfrage wurde gesendet.",
+    "successText": "Unser Exportteam antwortet Ihnen innerhalb eines Werktags.",
+    "errorTitle": "Das Formular konnte leider gerade nicht gesendet werden.",
+    "errorText": "Bitte senden Sie Ihre Anfrage per WhatsApp oder per E-Mail an {email}.",
+    "whatsappAction": "WhatsApp",
+    "confirm": {
+      "title": "Bitte prüfen Sie Ihre Angaben",
+      "text": "Wir antworten an diese E-Mail-Adresse. Ist sie korrekt?",
+      "suggestion": "Meinten Sie {email}?",
+      "useSuggestion": "Ja, diese verwenden",
+      "summary": "Ihre Anfrage",
+      "edit": "Angaben bearbeiten",
+      "send": "Ja, Anfrage senden",
+      "close": "Schließen"
+    },
+    "sentText": "Wir antworten Ihnen innerhalb eines Werktags an {email}.",
+    "sendAnother": "Weitere Anfrage senden"
+  },
+  "notFound": {
+    "eyebrow": "Fehler 404",
+    "title": "Diese Seite wurde nicht gefunden",
+    "text": "Der Link ist möglicherweise fehlerhaft oder die Seite wurde verschoben.",
+    "home": "Zur Startseite",
+    "products": "Produkte ansehen"
+  }
+}

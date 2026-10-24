@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "siteTitle": "Rehan Salt | Pink Himalayan Salt Manufacturer & Exporter, Pakistan",
+    "siteDescription": "Rehan Salt manufactures and exports pink Himalayan salt from Jhelum, Pakistan: edible salt, salt lamps, cooking plates, bath salt, bricks, lick salt and private label.",
+    "aboutTitle": "About Us",
+    "aboutDescription": "Rehan Salt is a pink Himalayan salt manufacturer and exporter based in Small Industrial Estate, Jhelum, Pakistan, close to the Salt Range and the Khewra Salt Mine.",
+    "productsTitle": "Pink Himalayan Salt Products",
+    "productsDescription": "Wholesale pink Himalayan salt from Pakistan: edible pink salt, cooking plates, salt lamps, candle holders, bath salt, bricks, tiles, lick salt and halotherapy salt.",
+    "privateLabelTitle": "Private Label Pink Himalayan Salt",
+    "privateLabelDescription": "Launch your own pink Himalayan salt brand. Rehan Salt packs pink salt, bath salt, lamps and cooking plates under your label: pouches, jars, grinders and gift boxes.",
+    "contactTitle": "Contact & Request a Quote",
+    "contactDescription": "Request a quote for pink Himalayan salt products. Call or WhatsApp +92 336 4421916, email raja.jabir100@gmail.com, or visit us at Small Industrial Estate, Jhelum.",
+    "notFoundTitle": "Page not found"
+  },
+  "brand": {
+    "tag": "Pink Himalayan Salt · Pakistan"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "privateLabel": "Private Label",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "requestQuote": "Request a Quote",
+    "chatWhatsApp": "Chat on WhatsApp",
+    "viewAllProducts": "View all products",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content",
+    "mainNav": "Main",
+    "email": "Email",
+    "language": "Language",
+    "switchToDark": "Switch to dark theme",
+    "switchToLight": "Switch to light theme",
+    "whatsappFloat": "Chat with us on WhatsApp",
+    "breadcrumb": "Breadcrumb",
+    "menu": "Menu",
+    "appearance": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "site": {
+    "address": "Small Industrial Estate, Jhelum, Punjab, Pakistan",
+    "addressShort": "Small Industrial Estate, Jhelum",
+    "hours": "Mon – Sat, 9:00 am – 6:00 pm (PKT)",
+    "footerAbout": "Rehan Salt manufactures and exports pink Himalayan salt from Jhelum, Pakistan, for wholesale, retail and private-label buyers worldwide.",
+    "rights": "© {year} Rehan Salt. All rights reserved.",
+    "ourProducts": "Our Products",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "whatsappUs": "WhatsApp us",
+    "whatsappLabel": "WhatsApp: {phone}"
+  },
+  "whatsapp": {
+    "default": "Hello Rehan Salt, I would like to know more about your pink Himalayan salt products.",
+    "product": "Hello Rehan Salt, I am interested in {product}. Please share specifications and prices.",
+    "quote": "Hello Rehan Salt, I would like a quote."
+  },
+  "common": {
+    "viewRange": "View range",
+    "requestQuote": "Request a Quote",
+    "askWhatsApp": "Ask on WhatsApp",
+    "formatsTitle": "Grades, sizes & formats",
+    "packingTitle": "Packing options",
+    "home": "Home"
+  },
+  "categories": {
+    "edible-salt": {
+      "name": "Edible Pink Himalayan Salt",
+      "nav": "Edible Salt",
+      "tag": "Food grade",
+      "card": "Pink, white and black salt from extra-fine to grinder grade for retail, foodservice and private-label programs.",
+      "long": "Food-grade pink Himalayan salt crushed, washed and screened to your mesh size. We supply pink, white and black (kala namak) salt in bulk for re-packers and food manufacturers, or packed and labelled for retail shelves.",
+      "formats": [
+        "Extra fine 0.3–0.5 mm",
+        "Fine 0.5–1 mm",
+        "Medium 1–2 mm",
+        "Coarse 2–5 mm",
+        "Grinder 3–8 mm",
+        "Pink · White · Black"
+      ],
+      "packing": [
+        "25 kg PP bags",
+        "1 MT jumbo bags",
+        "Retail pouches",
+        "Jars & grinders",
+        "Shakers",
+        "Your private label"
+      ]
+    },
+    "culinary-salt": {
+      "name": "Cooking Plates & Culinary",
+      "nav": "Cooking Plates",
+      "tag": "Culinary",
+      "card": "Salt cooking plates, serving blocks, bowls and shot glasses for kitchens, restaurants and gift ranges.",
+      "long": "Solid salt blocks cut and polished for grilling, chilling and serving. Popular with restaurants, barbecue retailers and gift catalogues, with matching bowls, shot glasses and mortar & pestle sets.",
+      "formats": [
+        "Plates 8×8×1.5 in",
+        "Plates 8×12×1.5 in",
+        "Plates 12×12×2 in",
+        "Serving bowls",
+        "Shot glasses",
+        "Mortar & pestle"
+      ],
+      "packing": [
+        "Gift boxes",
+        "Shrink-wrap + carton",
+        "Custom branded box"
+      ]
+    },
+    "salt-lamps": {
+      "name": "Pink Himalayan Salt Lamps",
+      "nav": "Salt Lamps",
+      "tag": "Home décor",
+      "card": "Natural rock lamps by weight, crafted shapes and wooden basket lamps for décor and gift retail.",
+      "long": "Natural rock lamps sold by weight band, hand-crafted shapes and wooden or metal basket lamps filled with salt chunks. Supplied with wooden bases, bulbs and plug types for your market.",
+      "formats": [
+        "Natural 2–3 kg",
+        "Natural 3–5 kg",
+        "Natural 5–50 kg",
+        "Sphere · Pyramid · Heart",
+        "Basket lamps",
+        "USB mini lamps"
+      ],
+      "packing": [
+        "Individual colour box",
+        "Master cartons",
+        "EU · UK · US plugs",
+        "Your private label"
+      ]
+    },
+    "candle-holders": {
+      "name": "Salt Candle Holders",
+      "nav": "Candle Holders",
+      "tag": "Home décor",
+      "card": "Natural and carved tealight holders for lifestyle, spa and hospitality ranges.",
+      "long": "Natural rough-cut and polished salt candle holders that glow warm when lit. Single and multi-hole designs for lifestyle stores, spas and hotel décor.",
+      "formats": [
+        "Natural rough tealight",
+        "Polished round",
+        "Polished square",
+        "Carved shapes",
+        "Multi-hole holders"
+      ],
+      "packing": [
+        "Gift box",
+        "Bulk carton",
+        "Your private label"
+      ]
+    },
+    "bath-salt": {
+      "name": "Bath & Spa Salt",
+      "nav": "Bath Salt",
+      "tag": "Wellness",
+      "card": "Bath, foot-soak and scrub grades for spa, cosmetic and wellness brands.",
+      "long": "Clean, consistent pink Himalayan bath salt for spa operators and cosmetic brands. Supplied in bulk for blending or packed and scented to your specification.",
+      "formats": [
+        "Fine bath grade",
+        "Medium bath grade",
+        "Coarse bath grade",
+        "Foot-soak grade",
+        "Scented blends on request",
+        "Massage stones"
+      ],
+      "packing": [
+        "25 kg bags",
+        "Pouches",
+        "Jars",
+        "Your private label"
+      ]
+    },
+    "salt-tiles": {
+      "name": "Salt Bricks & Tiles",
+      "nav": "Bricks & Tiles",
+      "tag": "Construction",
+      "card": "Bricks, tiles and backlit panels for salt rooms, feature walls and commercial fit-outs.",
+      "long": "Precision-cut pink Himalayan salt bricks and tiles for salt rooms, spa walls, restaurants and retail interiors. Cut to standard or custom sizes and packed for safe transit.",
+      "formats": [
+        "Bricks 8×4×2 in",
+        "Tiles 8×8×1 in",
+        "Tiles 8×4×1 in",
+        "Custom sizes",
+        "Backlit wall panels"
+      ],
+      "packing": [
+        "Cartons",
+        "Palletised wooden crates",
+        "Project labelling"
+      ]
+    },
+    "lick-salt": {
+      "name": "Animal Lick Salt",
+      "nav": "Animal Lick Salt",
+      "tag": "Agriculture",
+      "card": "Natural rock licks with rope and pressed blocks for livestock, horses and wildlife.",
+      "long": "Natural pink Himalayan rock licks with a rope for hanging, plus pressed lick blocks and bulk chunks for farm, equine and animal-nutrition channels.",
+      "formats": [
+        "Rope licks 2–3 kg",
+        "Rope licks 3–5 kg",
+        "Pressed blocks",
+        "Bulk lick chunks"
+      ],
+      "packing": [
+        "Shrink-wrapped",
+        "25 kg bags",
+        "Pallets"
+      ]
+    },
+    "salt-therapy": {
+      "name": "Salt Therapy (Halotherapy)",
+      "nav": "Salt Therapy",
+      "tag": "Wellness",
+      "card": "Halogenerator grade, salt-room granules and wall materials for halotherapy projects.",
+      "long": "Specialty grades for halotherapy rooms and salt caves: micro-fine salt for halogenerators, granules for floor beds, and bricks and chunks for walls.",
+      "formats": [
+        "Halogenerator grade",
+        "Salt-room granules",
+        "Floor-bed chunks",
+        "Wall bricks"
+      ],
+      "packing": [
+        "25 kg bags",
+        "Moisture-proof liners",
+        "Pallets"
+      ]
+    }
+  },
+  "cta": {
+    "eyebrow": "Start a conversation",
+    "title": "Ready to source pink Himalayan salt?",
+    "text": "Tell us the product, quantity and destination. We reply with specifications, packing options and a clear quotation, usually within one business day.",
+    "whatsapp": "WhatsApp {phone}"
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "From the Salt Range to your warehouse",
+    "lead": "A simple, transparent process, so you always know what you are getting and when it ships.",
+    "steps": [
+      {
+        "title": "Sourcing",
+        "text": "Selected rock salt from the Salt Range of Punjab, sorted by colour, clarity and grade."
+      },
+      {
+        "title": "Crushing & grading",
+        "text": "Crushed, cleaned and screened to precise mesh sizes. Lamps, plates and tiles are cut and shaped by hand."
+      },
+      {
+        "title": "Quality check",
+        "text": "Visual inspection and sieve checks on every lot. Lab analysis reports available on request."
+      },
+      {
+        "title": "Packing",
+        "text": "Bulk, retail or private-label packing, labelled for your market and palletised for transit."
+      },
+      {
+        "title": "Export",
+        "text": "FOB, CFR or CIF shipments through Karachi with complete export documentation."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions buyers ask us",
+    "items": [
+      {
+        "q": "What is your minimum order quantity (MOQ)?",
+        "a": "For bulk edible salt our standard MOQ is one 20-ft container, but we also accept trial and mixed-container orders. Lamps, candle holders and private-label products have their own MOQs depending on packaging. Send us your requirement and we will confirm."
+      },
+      {
+        "q": "Can I get samples before ordering?",
+        "a": "Yes. We send samples for quality approval. Sample and courier costs are normally adjusted against your first order."
+      },
+      {
+        "q": "Which shipping terms do you offer?",
+        "a": "We ship FOB, CFR (C&F) and CIF through Karachi port, and can also quote EXW. We prepare the commercial invoice, packing list, certificate of origin and other documents your market needs."
+      },
+      {
+        "q": "How long does production take?",
+        "a": "Most orders are ready in 2–4 weeks after sample approval and advance payment, depending on quantity and packaging. Private-label orders with new printed packaging may take a little longer."
+      },
+      {
+        "q": "What payment terms do you accept?",
+        "a": "Bank transfer (T/T) with an advance and the balance against shipping documents. Letters of credit (L/C at sight) can be discussed for larger orders."
+      },
+      {
+        "q": "Where does your salt come from?",
+        "a": "Our salt comes from the Salt Range in Punjab, Pakistan, the same mineral belt as the historic Khewra Salt Mine and the source of genuine pink Himalayan salt."
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Manufacturer & Exporter · Jhelum, Pakistan",
+      "titleStart": "Pure Pink Himalayan Salt,",
+      "titleEm": "shipped worldwide.",
+      "lead": "Rehan Salt supplies wholesale buyers, brands and distributors with consistent pink Himalayan salt products, clear specifications and reliable export service.",
+      "ctaQuote": "Request Export Quote",
+      "ctaExplore": "Explore Products",
+      "facts": [
+        {
+          "label": "Origin",
+          "value": "Salt Range, Khewra, Jhelum, Pakistan"
+        },
+        {
+          "label": "Model",
+          "value": "Factory-direct B2B"
+        },
+        {
+          "label": "Range",
+          "value": "Kitchen to salt rooms"
+        },
+        {
+          "label": "Terms",
+          "value": "FOB · CFR · CIF"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years in the salt trade"
+      },
+      {
+        "value": "25+",
+        "label": "Countries shipped to"
+      },
+      {
+        "value": "500 MT",
+        "label": "Monthly production capacity"
+      },
+      {
+        "value": "120+",
+        "label": "Products, sizes & grades"
+      }
+    ],
+    "categories": {
+      "eyebrow": "Wholesale range",
+      "title": "Export categories",
+      "lead": "Made-to-order lines for wholesale programs: edible salt, lamps, cooking plates, bath salt, bricks, licks and therapy grades. Ask our export team for specs and packing.",
+      "moreText": "Want the complete range? Browse every category with grades, sizes and packing options.",
+      "moreButton": "View All Products"
+    },
+    "offers": {
+      "wholesale": {
+        "eyebrow": "Wholesale",
+        "title": "Export wholesale supply",
+        "text": "Tell us your product mix, volume and destination. We respond with specifications, packing options and commercial next steps.",
+        "link": "Request wholesale quote"
+      },
+      "privateLabel": {
+        "eyebrow": "Private label",
+        "title": "OEM / your brand",
+        "text": "Build your own brand line with factory-direct pink Himalayan salt, packed in your pouches, jars or boxes with your artwork.",
+        "link": "Explore private label"
+      }
+    },
+    "industries": {
+      "eyebrow": "Industries",
+      "title": "Built for buyer use-cases",
+      "lead": "We supply pink Himalayan salt programs for teams that need reliable origin, clear communication and export readiness.",
+      "items": [
+        {
+          "title": "Food & Culinary",
+          "text": "Edible and culinary salt for brands, distributors, food manufacturers and foodservice buyers."
+        },
+        {
+          "title": "Wellness & Spa",
+          "text": "Bath salt, therapy grades and salt-room materials for spas and wellness projects."
+        },
+        {
+          "title": "Home & Retail Décor",
+          "text": "Salt lamps and candle holders for retail, e-commerce and lifestyle catalogues."
+        },
+        {
+          "title": "Agriculture & Animal",
+          "text": "Rock licks and pressed blocks for farm, equine and animal-nutrition channels."
+        }
+      ]
+    },
+    "why": {
+      "eyebrow": "Why buyers work with us",
+      "title": "Trust through clarity",
+      "lead": "International buyers choose partners who are specific about origin, capability and communication, not vague claims.",
+      "imageAlt": "Inside a rock salt mine with striped salt walls",
+      "badgeTitle": "Salt Range origin",
+      "badgeText": "Sourced from the mineral belt of Punjab, Pakistan",
+      "items": [
+        {
+          "title": "Genuine origin",
+          "text": "Rock salt from Pakistan's Salt Range, processed at our own unit in Jhelum."
+        },
+        {
+          "title": "Factory-direct pricing",
+          "text": "No middlemen between you and production, so pricing and timelines stay clear."
+        },
+        {
+          "title": "Consistent grading",
+          "text": "Every lot is screened and inspected so your next order matches your last."
+        },
+        {
+          "title": "Fast, honest replies",
+          "text": "Specs, packing, lead times and documents answered directly, often the same day on WhatsApp."
+        }
+      ]
+    },
+    "world": {
+      "eyebrow": "Global export reach",
+      "titleStart": "From Jhelum to buyers",
+      "titleEm": "worldwide",
+      "lead": "Wholesale pink Himalayan salt products shipped from Pakistan to importers across Europe, North America, the Middle East and Asia-Pacific.",
+      "globeLabel": "Rehan Salt ships from Jhelum, Pakistan to buyers worldwide",
+      "jhelum": "JHELUM",
+      "regions": [
+        {
+          "name": "Europe",
+          "detail": "Importers & retail chains"
+        },
+        {
+          "name": "North America",
+          "detail": "Distributors & e-commerce"
+        },
+        {
+          "name": "Middle East",
+          "detail": "Wholesale & foodservice"
+        },
+        {
+          "name": "Asia-Pacific",
+          "detail": "Brands & private label"
+        },
+        {
+          "name": "Africa",
+          "detail": "Livestock & food trade"
+        },
+        {
+          "name": "Latin America",
+          "detail": "Spa & wellness"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "crumb": "About Us",
+      "eyebrow": "Our story",
+      "title": "Pink Himalayan salt, handled with care",
+      "text": "A Jhelum-based manufacturer and exporter supplying pink Himalayan salt to buyers who value consistency, honesty and on-time shipping."
+    },
+    "who": {
+      "eyebrow": "Who we are",
+      "title": "Close to the source, focused on export",
+      "imageAlt": "Raw pink Himalayan rock salt chunks",
+      "p1": "Rehan Salt is a pink Himalayan salt manufacturer and exporter based in the Small Industrial Estate, Jhelum, a short distance from the Salt Range and the historic Khewra Salt Mine.",
+      "p2": "We select rock salt from the Salt Range and process it at our own unit into edible salt, lamps, cooking plates, candle holders, bath salt, bricks, tiles and animal licks. Each order is graded, inspected and packed to the buyer's specification.",
+      "p3": "Our customers are importers, distributors, retail chains and brand owners. Whether you need a full container of bulk salt or a private-label retail line, we keep the process simple: clear specifications, fair pricing and regular updates until your goods arrive.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Small Industrial Estate, Jhelum"
+        },
+        {
+          "label": "Established",
+          "value": "2010"
+        },
+        {
+          "label": "Capacity",
+          "value": "500 MT per month"
+        },
+        {
+          "label": "Markets",
+          "value": "25+ countries"
+        }
+      ]
+    },
+    "himalayan": {
+      "eyebrow": "About pink Himalayan salt",
+      "title": "What makes it special",
+      "imageAlt": "Striped walls inside a rock salt mine",
+      "p1": "Pink Himalayan salt is rock salt (halite) mined from the Salt Range in Punjab, Pakistan, south of the Himalayan foothills. The Khewra Salt Mine in this range is one of the oldest and largest salt mines in the world.",
+      "p2": "The salt is mostly sodium chloride. Trace minerals give it its well-known pink, red or off-white colour, which makes it popular for cooking, food presentation, decorative lamps and spa treatments.",
+      "p3": "Because the deposits formed hundreds of millions of years ago, the crystals are naturally clean and need only careful crushing, washing and grading to be ready for market."
+    },
+    "values": {
+      "eyebrow": "Our values",
+      "title": "How we do business",
+      "items": [
+        {
+          "title": "Consistent quality",
+          "text": "The grade you approve on the sample is the grade you receive in the container."
+        },
+        {
+          "title": "Honest specifications",
+          "text": "Clear mesh sizes, weights and packing details, written into every quotation."
+        },
+        {
+          "title": "Flexible packing",
+          "text": "From 25 kg bags to retail-ready, private-label packs for your market."
+        },
+        {
+          "title": "Clear communication",
+          "text": "One point of contact on WhatsApp and email, with photos and updates during production."
+        },
+        {
+          "title": "On-time shipping",
+          "text": "Realistic lead times, booked early and shipped with complete documents."
+        },
+        {
+          "title": "Long-term partners",
+          "text": "We grow with our buyers through repeat orders and new product development."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Let's build a reliable supply line",
+      "text": "Share your product list and target market. We'll send specifications, samples and a quotation tailored to your business."
+    }
+  },
+  "products": {
+    "hero": {
+      "crumb": "Products",
+      "eyebrow": "Wholesale range",
+      "title": "Our pink Himalayan salt products",
+      "text": "Eight export categories, each available in multiple grades, sizes and packing formats. Ask for the full price list and specifications."
+    },
+    "navLabel": "Product categories",
+    "cta": {
+      "title": "Need a mixed container?",
+      "text": "Combine edible salt, lamps, plates and other products in one shipment. We'll help you plan quantities and packing."
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "crumb": "Private Label",
+      "eyebrow": "OEM · Your brand",
+      "title": "Your brand. Our pink Himalayan salt.",
+      "text": "Launch or grow a pink Himalayan salt line under your own label. We handle sourcing, grading, packing and export, and you focus on selling."
+    },
+    "intro": {
+      "eyebrow": "What we handle",
+      "title": "Everything from salt to shelf-ready",
+      "lead": "Send us your brief, artwork and target market. We'll take care of the rest.",
+      "imageAlt": "Jars of salt with gold lids",
+      "badgeTitle": "Low starting MOQs",
+      "badgeText": "Trial runs available for new brands",
+      "items": [
+        "Product selection: pink, white or black salt, lamps, plates and bath salt",
+        "Grain size and weight matched to your packaging",
+        "Packaging sourcing and printing to your artwork",
+        "Labelling with barcodes and market information",
+        "Samples for approval before mass production",
+        "Palletising, export documents and shipping"
+      ]
+    },
+    "formats": {
+      "eyebrow": "Packaging formats",
+      "title": "Pack it your way",
+      "items": [
+        {
+          "title": "Stand-up pouches",
+          "text": "Resealable kraft or printed pouches from 250 g to 5 kg, with or without a window."
+        },
+        {
+          "title": "Jars & grinders",
+          "text": "Glass and PET jars, refillable grinders and shakers, labelled with your artwork."
+        },
+        {
+          "title": "Gift & retail boxes",
+          "text": "Printed boxes for lamps, candle holders, cooking plates and gift sets."
+        },
+        {
+          "title": "Bulk for re-packing",
+          "text": "25 kg PP bags and 1 MT jumbo bags if you pack in your own facility."
+        },
+        {
+          "title": "Labels & barcodes",
+          "text": "Your labels printed or applied by us, with barcodes and the details your market requires."
+        },
+        {
+          "title": "Mixed containers",
+          "text": "Combine several private-label SKUs in one shipment to keep stock lean."
+        }
+      ]
+    },
+    "steps": {
+      "eyebrow": "Four simple steps",
+      "title": "How private label works",
+      "items": [
+        {
+          "title": "Share your brief",
+          "text": "Products, pack sizes, target market and expected volumes."
+        },
+        {
+          "title": "Samples & quote",
+          "text": "We send samples and a detailed quotation with packing costs."
+        },
+        {
+          "title": "Approve artwork",
+          "text": "We confirm labels and packaging proofs with you before printing."
+        },
+        {
+          "title": "Produce & ship",
+          "text": "Production, final inspection photos and export to your port."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start your pink Himalayan salt brand",
+      "text": "Tell us about your brand and market. We'll recommend products and packaging and send samples."
+    }
+  },
+  "contact": {
+    "hero": {
+      "crumb": "Contact",
+      "eyebrow": "Get in touch",
+      "title": "Request a quote",
+      "text": "Tell us what you need. Our export team usually replies within one business day, and faster on WhatsApp."
+    },
+    "details": {
+      "eyebrow": "Contact details",
+      "title": "Talk to our export team",
+      "lead": "Call, message or visit. We're happy to share photos, videos and samples before you order.",
+      "whatsapp": "WhatsApp",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Business hours"
+    },
+    "formTitle": "Quote request",
+    "requiredNote": "Fields marked * are required.",
+    "map": {
+      "eyebrow": "Find us",
+      "iframeTitle": "Map showing Small Industrial Estate, Jhelum"
+    }
+  },
+  "form": {
+    "name": "Full name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone / WhatsApp",
+    "country": "Country",
+    "product": "Product of interest",
+    "quantity": "Estimated quantity",
+    "quantityPlaceholder": "e.g. 1 × 20 ft container, 5 tons, 2,000 lamps",
+    "message": "Message",
+    "messagePlaceholder": "Grades, sizes, packing, destination port, target price…",
+    "send": "Send enquiry",
+    "sending": "Sending…",
+    "sendWhatsApp": "Send via WhatsApp",
+    "note": "We only use your details to reply to your enquiry.",
+    "optionPrivateLabel": "Private label / OEM",
+    "optionMixed": "Mixed container",
+    "optionOther": "Other",
+    "errors": {
+      "name": "Please enter your name",
+      "email": "Please enter a valid email address",
+      "country": "Please enter your country",
+      "message": "Please add a few details (at least 10 characters)"
+    },
+    "successTitle": "Thank you! Your enquiry has been sent.",
+    "successText": "Our export team will reply within one business day.",
+    "errorTitle": "Sorry, the form could not be sent right now.",
+    "errorText": "Please send it on WhatsApp or email {email}.",
+    "whatsappAction": "WhatsApp",
+    "confirm": {
+      "title": "Please check your details",
+      "text": "We will reply to this email address. Is it correct?",
+      "suggestion": "Did you mean {email}?",
+      "useSuggestion": "Yes, use this",
+      "summary": "Your enquiry",
+      "edit": "Edit details",
+      "send": "Yes, send enquiry",
+      "close": "Close"
+    },
+    "sentText": "We will reply to {email} within one business day.",
+    "sendAnother": "Send another enquiry"
+  },
+  "notFound": {
+    "eyebrow": "Error 404",
+    "title": "This page could not be found",
+    "text": "The link may be broken or the page may have moved.",
+    "home": "Back to Home",
+    "products": "View Products"
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "siteTitle": "Rehan Salt | Fabricante y exportador de Sal Rosa del Himalaya, Pakistán",
+    "siteDescription": "Rehan Salt fabrica y exporta sal rosa del Himalaya desde Jhelum, Pakistán: sal comestible, lámparas de sal, placas de cocina, sal de baño, ladrillos, sal para lamer y marca blanca.",
+    "aboutTitle": "Quiénes somos",
+    "aboutDescription": "Rehan Salt es un fabricante y exportador de sal rosa del Himalaya con sede en Small Industrial Estate, Jhelum, Pakistán, cerca de la Cordillera de la Sal y de la mina de sal de Khewra.",
+    "productsTitle": "Productos de Sal Rosa del Himalaya",
+    "productsDescription": "Productos de sal rosa del Himalaya al por mayor desde Pakistán: sal rosa comestible, placas de cocina, lámparas de sal, portavelas, sal de baño, ladrillos y baldosas, sal para lamer para animales y sal para haloterapia.",
+    "privateLabelTitle": "Sal Rosa del Himalaya con marca blanca",
+    "privateLabelDescription": "Lance su propia marca de sal rosa del Himalaya. Rehan Salt envasa sal rosa, sal de baño, lámparas y placas de cocina con su marca: bolsas, tarros, molinillos y cajas de regalo.",
+    "contactTitle": "Contacto y solicitud de cotización",
+    "contactDescription": "Solicite una cotización de productos de sal rosa del Himalaya. Llame o escriba por WhatsApp al +92 336 4421916, envíe un correo a raja.jabir100@gmail.com o visítenos en Small Industrial Estate, Jhelum.",
+    "notFoundTitle": "Página no encontrada"
+  },
+  "brand": {
+    "tag": "Sal Rosa del Himalaya · Pakistán"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Quiénes somos",
+    "products": "Productos",
+    "privateLabel": "Marca blanca",
+    "contact": "Contacto",
+    "getQuote": "Pedir cotización",
+    "requestQuote": "Solicitar cotización",
+    "chatWhatsApp": "Escríbanos por WhatsApp",
+    "viewAllProducts": "Ver todos los productos",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "skipToContent": "Ir al contenido",
+    "mainNav": "Principal",
+    "email": "Correo electrónico",
+    "language": "Idioma",
+    "switchToDark": "Cambiar al tema oscuro",
+    "switchToLight": "Cambiar al tema claro",
+    "whatsappFloat": "Escríbanos por WhatsApp",
+    "breadcrumb": "Ruta de navegación",
+    "menu": "Menú",
+    "appearance": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "site": {
+    "address": "Small Industrial Estate, Jhelum, Panyab, Pakistán",
+    "addressShort": "Small Industrial Estate, Jhelum",
+    "hours": "Lun. – sáb., 9:00 – 18:00 (PKT)",
+    "footerAbout": "Rehan Salt fabrica y exporta sal rosa del Himalaya desde Jhelum, Pakistán, para compradores mayoristas, minoristas y de marca blanca de todo el mundo.",
+    "rights": "© {year} Rehan Salt. Todos los derechos reservados.",
+    "ourProducts": "Nuestros productos",
+    "quickLinks": "Enlaces rápidos",
+    "contactUs": "Contáctenos",
+    "whatsappUs": "Escríbanos por WhatsApp",
+    "whatsappLabel": "WhatsApp: {phone}"
+  },
+  "whatsapp": {
+    "default": "Hola, Rehan Salt. Me gustaría recibir más información sobre sus productos de sal rosa del Himalaya.",
+    "product": "Hola, Rehan Salt. Me interesa {product}. Por favor, envíenme especificaciones y precios.",
+    "quote": "Hola, Rehan Salt. Me gustaría solicitar una cotización."
+  },
+  "common": {
+    "viewRange": "Ver gama",
+    "requestQuote": "Solicitar cotización",
+    "askWhatsApp": "Consultar por WhatsApp",
+    "formatsTitle": "Calidades, tamaños y formatos",
+    "packingTitle": "Opciones de embalaje",
+    "home": "Inicio"
+  },
+  "categories": {
+    "edible-salt": {
+      "name": "Sal Rosa del Himalaya comestible",
+      "nav": "Sal comestible",
+      "tag": "Apta para alimentos",
+      "card": "Sal rosa, blanca y negra, desde extrafina hasta grano para molinillo, para venta minorista, hostelería y programas de marca blanca.",
+      "long": "Sal rosa del Himalaya de grado alimentario triturada, lavada y tamizada a la granulometría que usted necesite. Suministramos sal rosa, blanca y negra (kala namak) a granel para reenvasadores y fabricantes de alimentos, o envasada y etiquetada para el lineal minorista.",
+      "formats": [
+        "Extrafina 0.3–0.5 mm",
+        "Fina 0.5–1 mm",
+        "Media 1–2 mm",
+        "Gruesa 2–5 mm",
+        "Para molinillo 3–8 mm",
+        "Rosa · Blanca · Negra"
+      ],
+      "packing": [
+        "Sacos de PP de 25 kg",
+        "Big bags de 1 MT",
+        "Bolsas para venta minorista",
+        "Tarros y molinillos",
+        "Saleros",
+        "Su propia marca blanca"
+      ]
+    },
+    "culinary-salt": {
+      "name": "Placas de cocina y uso culinario",
+      "nav": "Placas de cocina",
+      "tag": "Culinario",
+      "card": "Placas de sal para cocinar, bloques para servir, cuencos y vasos de chupito para cocinas, restaurantes y líneas de regalo.",
+      "long": "Bloques macizos de sal cortados y pulidos para asar, enfriar y servir. Muy solicitados por restaurantes, tiendas de barbacoa y catálogos de regalo, con cuencos, vasos de chupito y morteros a juego.",
+      "formats": [
+        "Placas 8×8×1.5 in",
+        "Placas 8×12×1.5 in",
+        "Placas 12×12×2 in",
+        "Cuencos para servir",
+        "Vasos de chupito",
+        "Mortero y maja"
+      ],
+      "packing": [
+        "Cajas de regalo",
+        "Retractilado + caja de cartón",
+        "Caja personalizada con su marca"
+      ]
+    },
+    "salt-lamps": {
+      "name": "Lámparas de Sal Rosa del Himalaya",
+      "nav": "Lámparas de sal",
+      "tag": "Decoración del hogar",
+      "card": "Lámparas de roca natural por peso, formas talladas y lámparas de cesta de madera para decoración y tiendas de regalo.",
+      "long": "Lámparas de roca natural vendidas por franja de peso, formas talladas a mano y lámparas de cesta de madera o metal rellenas de trozos de sal. Se suministran con bases de madera, bombillas y el tipo de enchufe de su mercado.",
+      "formats": [
+        "Natural 2–3 kg",
+        "Natural 3–5 kg",
+        "Natural 5–50 kg",
+        "Esfera · Pirámide · Corazón",
+        "Lámparas de cesta",
+        "Minilámparas USB"
+      ],
+      "packing": [
+        "Caja individual a color",
+        "Cajas máster",
+        "Enchufes EU · UK · US",
+        "Su propia marca blanca"
+      ]
+    },
+    "candle-holders": {
+      "name": "Portavelas de sal",
+      "nav": "Portavelas",
+      "tag": "Decoración del hogar",
+      "card": "Portavelas de té naturales y tallados para líneas de estilo de vida, spa y hostelería.",
+      "long": "Portavelas de sal en corte rústico natural o pulidos, que desprenden un brillo cálido al encenderse. Diseños de uno o varios huecos para tiendas de estilo de vida, spas y decoración hotelera.",
+      "formats": [
+        "Portavelas de té rústico natural",
+        "Pulido redondo",
+        "Pulido cuadrado",
+        "Formas talladas",
+        "Portavelas de varios huecos"
+      ],
+      "packing": [
+        "Caja de regalo",
+        "Caja de cartón a granel",
+        "Su propia marca blanca"
+      ]
+    },
+    "bath-salt": {
+      "name": "Sal de baño y spa",
+      "nav": "Sal de baño",
+      "tag": "Bienestar",
+      "card": "Granulometrías para baño, baño de pies y exfoliantes para marcas de spa, cosmética y bienestar.",
+      "long": "Sal de baño rosa del Himalaya limpia y homogénea para operadores de spa y marcas cosméticas. Se suministra a granel para mezclas o envasada y aromatizada según sus especificaciones.",
+      "formats": [
+        "Grano fino para baño",
+        "Grano medio para baño",
+        "Grano grueso para baño",
+        "Grano para baño de pies",
+        "Mezclas aromatizadas bajo pedido",
+        "Piedras de masaje"
+      ],
+      "packing": [
+        "Sacos de 25 kg",
+        "Bolsas",
+        "Tarros",
+        "Su propia marca blanca"
+      ]
+    },
+    "salt-tiles": {
+      "name": "Ladrillos y baldosas de sal",
+      "nav": "Ladrillos y baldosas",
+      "tag": "Construcción",
+      "card": "Ladrillos, baldosas y paneles retroiluminados para salas de sal, paredes decorativas y proyectos de interiorismo comercial.",
+      "long": "Ladrillos y baldosas de sal rosa del Himalaya cortados con precisión para salas de sal, paredes de spa, restaurantes e interiores comerciales. Cortados en medidas estándar o a medida y embalados para un transporte seguro.",
+      "formats": [
+        "Ladrillos 8×4×2 in",
+        "Baldosas 8×8×1 in",
+        "Baldosas 8×4×1 in",
+        "Medidas personalizadas",
+        "Paneles de pared retroiluminados"
+      ],
+      "packing": [
+        "Cajas de cartón",
+        "Cajas de madera paletizadas",
+        "Etiquetado por proyecto"
+      ]
+    },
+    "lick-salt": {
+      "name": "Sal para lamer para animales",
+      "nav": "Sal para animales",
+      "tag": "Agricultura",
+      "card": "Bloques de roca natural con cuerda y bloques prensados para ganado, caballos y fauna silvestre.",
+      "long": "Bloques de roca rosa natural del Himalaya con cuerda para colgar, además de bloques prensados y trozos a granel para los canales agropecuario, ecuestre y de nutrición animal.",
+      "formats": [
+        "Bloques con cuerda 2–3 kg",
+        "Bloques con cuerda 3–5 kg",
+        "Bloques prensados",
+        "Trozos para lamer a granel"
+      ],
+      "packing": [
+        "Retractilado",
+        "Sacos de 25 kg",
+        "Palés"
+      ]
+    },
+    "salt-therapy": {
+      "name": "Terapia de sal (haloterapia)",
+      "nav": "Terapia de sal",
+      "tag": "Bienestar",
+      "card": "Sal para halogeneradores, gránulos para salas de sal y materiales de pared para proyectos de haloterapia.",
+      "long": "Calidades especiales para salas de haloterapia y cuevas de sal: sal microfina para halogeneradores, gránulos para suelos y ladrillos y trozos para paredes.",
+      "formats": [
+        "Grado para halogenerador",
+        "Gránulos para sala de sal",
+        "Trozos para suelos",
+        "Ladrillos para pared"
+      ],
+      "packing": [
+        "Sacos de 25 kg",
+        "Revestimientos antihumedad",
+        "Palés"
+      ]
+    }
+  },
+  "cta": {
+    "eyebrow": "Hablemos",
+    "title": "¿Busca un proveedor de sal rosa del Himalaya?",
+    "text": "Indíquenos el producto, la cantidad y el destino. Le enviaremos especificaciones, opciones de embalaje y una cotización clara, normalmente en un día hábil.",
+    "whatsapp": "WhatsApp {phone}"
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "De la Cordillera de la Sal a su almacén",
+    "lead": "Un proceso sencillo y transparente, para que siempre sepa qué recibe y cuándo se envía.",
+    "steps": [
+      {
+        "title": "Abastecimiento",
+        "text": "Sal de roca seleccionada de la Cordillera de la Sal del Panyab, clasificada por color, transparencia y calidad."
+      },
+      {
+        "title": "Triturado y clasificación",
+        "text": "Triturada, limpiada y tamizada a granulometrías precisas. Las lámparas, placas y baldosas se cortan y moldean a mano."
+      },
+      {
+        "title": "Control de calidad",
+        "text": "Inspección visual y control por tamizado en cada lote. Informes de análisis de laboratorio disponibles bajo pedido."
+      },
+      {
+        "title": "Embalaje",
+        "text": "Embalaje a granel, para venta minorista o con marca blanca, etiquetado para su mercado y paletizado para el transporte."
+      },
+      {
+        "title": "Exportación",
+        "text": "Envíos FOB, CFR o CIF desde Karachi con toda la documentación de exportación."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Lo que nos preguntan los compradores",
+    "items": [
+      {
+        "q": "¿Cuál es su pedido mínimo (MOQ)?",
+        "a": "Para sal comestible a granel, nuestro MOQ estándar es un contenedor de 20 ft, aunque también aceptamos pedidos de prueba y contenedores mixtos. Las lámparas, los portavelas y los productos de marca blanca tienen sus propios MOQ según el embalaje. Envíenos sus requisitos y se lo confirmaremos."
+      },
+      {
+        "q": "¿Puedo recibir muestras antes de hacer el pedido?",
+        "a": "Sí. Enviamos muestras para la aprobación de la calidad. El coste de las muestras y del envío por mensajería suele descontarse de su primer pedido."
+      },
+      {
+        "q": "¿Qué condiciones de envío ofrecen?",
+        "a": "Enviamos en condiciones FOB, CFR (C&F) y CIF desde el puerto de Karachi, y también podemos cotizar EXW. Preparamos la factura comercial, la lista de embalaje, el certificado de origen y los demás documentos que exija su mercado."
+      },
+      {
+        "q": "¿Cuánto tarda la producción?",
+        "a": "La mayoría de los pedidos están listos en 2–4 semanas tras la aprobación de la muestra y el pago del anticipo, según la cantidad y el embalaje. Los pedidos de marca blanca con embalaje impreso nuevo pueden tardar algo más."
+      },
+      {
+        "q": "¿Qué condiciones de pago aceptan?",
+        "a": "Transferencia bancaria (T/T) con un anticipo y el saldo contra documentos de embarque. Para pedidos de mayor volumen se puede estudiar la carta de crédito (L/C a la vista)."
+      },
+      {
+        "q": "¿De dónde procede su sal?",
+        "a": "Nuestra sal procede de la Cordillera de la Sal, en el Panyab (Pakistán), el mismo cinturón mineral que la histórica mina de sal de Khewra y el origen de la auténtica sal rosa del Himalaya."
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Fabricante y exportador · Jhelum, Pakistán",
+      "titleStart": "Sal rosa del Himalaya pura,",
+      "titleEm": "enviada a todo el mundo.",
+      "lead": "Rehan Salt abastece a compradores mayoristas, marcas y distribuidores con productos de sal rosa del Himalaya de calidad constante, especificaciones claras y un servicio de exportación fiable.",
+      "ctaQuote": "Solicitar cotización de exportación",
+      "ctaExplore": "Ver productos",
+      "facts": [
+        {
+          "label": "Origen",
+          "value": "Cordillera de la Sal, Khewra, Jhelum, Pakistán"
+        },
+        {
+          "label": "Modelo",
+          "value": "B2B directo de fábrica"
+        },
+        {
+          "label": "Gama",
+          "value": "De la cocina a las salas de sal"
+        },
+        {
+          "label": "Condiciones",
+          "value": "FOB · CFR · CIF"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Años en el comercio de la sal"
+      },
+      {
+        "value": "25+",
+        "label": "Países de destino"
+      },
+      {
+        "value": "500 MT",
+        "label": "Capacidad de producción mensual"
+      },
+      {
+        "value": "120+",
+        "label": "Productos, tamaños y calidades"
+      }
+    ],
+    "categories": {
+      "eyebrow": "Gama mayorista",
+      "title": "Categorías de exportación",
+      "lead": "Líneas fabricadas bajo pedido para programas mayoristas: sal comestible, lámparas, placas de cocina, sal de baño, ladrillos, sal para lamer y calidades para terapia. Pida a nuestro equipo de exportación especificaciones y opciones de embalaje.",
+      "moreText": "¿Quiere ver la gama completa? Consulte todas las categorías con sus calidades, tamaños y opciones de embalaje.",
+      "moreButton": "Ver todos los productos"
+    },
+    "offers": {
+      "wholesale": {
+        "eyebrow": "Venta mayorista",
+        "title": "Suministro mayorista para exportación",
+        "text": "Indíquenos su combinación de productos, volumen y destino. Le responderemos con especificaciones, opciones de embalaje y los siguientes pasos comerciales.",
+        "link": "Solicitar cotización mayorista"
+      },
+      "privateLabel": {
+        "eyebrow": "Marca blanca",
+        "title": "OEM / su marca",
+        "text": "Cree su propia línea de marca con sal rosa del Himalaya directa de fábrica, envasada en sus bolsas, tarros o cajas con su diseño.",
+        "link": "Descubrir la marca blanca"
+      }
+    },
+    "industries": {
+      "eyebrow": "Sectores",
+      "title": "Pensado para cada tipo de comprador",
+      "lead": "Suministramos programas de sal rosa del Himalaya a equipos que necesitan un origen fiable, una comunicación clara y capacidad de exportación.",
+      "items": [
+        {
+          "title": "Alimentación y gastronomía",
+          "text": "Sal comestible y culinaria para marcas, distribuidores, fabricantes de alimentos y compradores del sector de la hostelería."
+        },
+        {
+          "title": "Bienestar y spa",
+          "text": "Sal de baño, calidades para terapia y materiales para salas de sal destinados a spas y proyectos de bienestar."
+        },
+        {
+          "title": "Hogar y decoración",
+          "text": "Lámparas de sal y portavelas para comercio minorista, comercio electrónico y catálogos de estilo de vida."
+        },
+        {
+          "title": "Agricultura y ganadería",
+          "text": "Bloques de roca y bloques prensados para los canales agropecuario, ecuestre y de nutrición animal."
+        }
+      ]
+    },
+    "why": {
+      "eyebrow": "Por qué nos eligen los compradores",
+      "title": "Confianza a través de la claridad",
+      "lead": "Los compradores internacionales eligen socios que concretan el origen, la capacidad y la comunicación, no afirmaciones vagas.",
+      "imageAlt": "Interior de una mina de sal de roca con paredes de sal veteadas",
+      "badgeTitle": "Origen: Cordillera de la Sal",
+      "badgeText": "Extraída del cinturón mineral del Panyab, Pakistán",
+      "items": [
+        {
+          "title": "Origen auténtico",
+          "text": "Sal de roca de la Cordillera de la Sal de Pakistán, procesada en nuestra propia planta de Jhelum."
+        },
+        {
+          "title": "Precios directos de fábrica",
+          "text": "Sin intermediarios entre usted y la producción, para que los precios y los plazos sean siempre claros."
+        },
+        {
+          "title": "Clasificación homogénea",
+          "text": "Cada lote se tamiza e inspecciona para que su próximo pedido sea igual que el anterior."
+        },
+        {
+          "title": "Respuestas rápidas y honestas",
+          "text": "Especificaciones, embalaje, plazos de entrega y documentos respondidos directamente, a menudo el mismo día por WhatsApp."
+        }
+      ]
+    },
+    "world": {
+      "eyebrow": "Alcance global de exportación",
+      "titleStart": "De Jhelum a compradores",
+      "titleEm": "de todo el mundo",
+      "lead": "Productos de sal rosa del Himalaya al por mayor enviados desde Pakistán a importadores de Europa, Norteamérica, Oriente Medio y Asia-Pacífico.",
+      "globeLabel": "Rehan Salt envía desde Jhelum, Pakistán, a compradores de todo el mundo",
+      "jhelum": "JHELUM",
+      "regions": [
+        {
+          "name": "Europa",
+          "detail": "Importadores y cadenas minoristas"
+        },
+        {
+          "name": "Norteamérica",
+          "detail": "Distribuidores y comercio electrónico"
+        },
+        {
+          "name": "Oriente Medio",
+          "detail": "Venta mayorista y hostelería"
+        },
+        {
+          "name": "Asia-Pacífico",
+          "detail": "Marcas y marca blanca"
+        },
+        {
+          "name": "África",
+          "detail": "Ganadería y comercio alimentario"
+        },
+        {
+          "name": "Latinoamérica",
+          "detail": "Spa y bienestar"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "crumb": "Quiénes somos",
+      "eyebrow": "Nuestra historia",
+      "title": "Sal rosa del Himalaya, tratada con esmero",
+      "text": "Fabricante y exportador con sede en Jhelum que suministra sal rosa del Himalaya a compradores que valoran la constancia, la honestidad y los envíos puntuales."
+    },
+    "who": {
+      "eyebrow": "Quiénes somos",
+      "title": "Cerca del origen, centrados en la exportación",
+      "imageAlt": "Trozos de sal de roca rosa del Himalaya en bruto",
+      "p1": "Rehan Salt es un fabricante y exportador de sal rosa del Himalaya con sede en Small Industrial Estate, Jhelum, a poca distancia de la Cordillera de la Sal y de la histórica mina de sal de Khewra.",
+      "p2": "Seleccionamos sal de roca de la Cordillera de la Sal y la procesamos en nuestra propia planta para obtener sal comestible, lámparas, placas de cocina, portavelas, sal de baño, ladrillos, baldosas y sal para lamer para animales. Cada pedido se clasifica, se inspecciona y se embala según las especificaciones del comprador.",
+      "p3": "Nuestros clientes son importadores, distribuidores, cadenas minoristas y propietarios de marcas. Tanto si necesita un contenedor completo de sal a granel como una línea minorista de marca blanca, mantenemos un proceso sencillo: especificaciones claras, precios justos y actualizaciones periódicas hasta que su mercancía llegue a destino.",
+      "facts": [
+        {
+          "label": "Ubicación",
+          "value": "Small Industrial Estate, Jhelum"
+        },
+        {
+          "label": "Fundación",
+          "value": "2010"
+        },
+        {
+          "label": "Capacidad",
+          "value": "500 MT al mes"
+        },
+        {
+          "label": "Mercados",
+          "value": "Más de 25 países"
+        }
+      ]
+    },
+    "himalayan": {
+      "eyebrow": "Sobre la sal rosa del Himalaya",
+      "title": "Qué la hace especial",
+      "imageAlt": "Paredes veteadas en el interior de una mina de sal de roca",
+      "p1": "La sal rosa del Himalaya es sal de roca (halita) extraída de la Cordillera de la Sal, en el Panyab (Pakistán), al sur de las estribaciones del Himalaya. La mina de sal de Khewra, situada en esta cordillera, es una de las minas de sal más antiguas y grandes del mundo.",
+      "p2": "La sal está compuesta principalmente por cloruro de sodio. Los minerales traza le confieren su conocido color rosa, rojo o blanco roto, lo que la hace muy apreciada en la cocina, la presentación de alimentos, las lámparas decorativas y los tratamientos de spa.",
+      "p3": "Como los yacimientos se formaron hace cientos de millones de años, los cristales son limpios por naturaleza y solo requieren un triturado, lavado y clasificación cuidadosos para estar listos para el mercado."
+    },
+    "values": {
+      "eyebrow": "Nuestros valores",
+      "title": "Cómo trabajamos",
+      "items": [
+        {
+          "title": "Calidad constante",
+          "text": "La calidad que aprueba en la muestra es la que recibe en el contenedor."
+        },
+        {
+          "title": "Especificaciones honestas",
+          "text": "Granulometrías, pesos y detalles de embalaje claros, por escrito en cada cotización."
+        },
+        {
+          "title": "Embalaje flexible",
+          "text": "Desde sacos de 25 kg hasta envases de marca blanca listos para la venta en su mercado."
+        },
+        {
+          "title": "Comunicación clara",
+          "text": "Un único interlocutor por WhatsApp y correo electrónico, con fotos y actualizaciones durante la producción."
+        },
+        {
+          "title": "Envíos puntuales",
+          "text": "Plazos de entrega realistas, reservas anticipadas y envíos con toda la documentación."
+        },
+        {
+          "title": "Socios a largo plazo",
+          "text": "Crecemos con nuestros compradores mediante pedidos recurrentes y el desarrollo de nuevos productos."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Construyamos una cadena de suministro fiable",
+      "text": "Compártanos su lista de productos y su mercado objetivo. Le enviaremos especificaciones, muestras y una cotización adaptada a su negocio."
+    }
+  },
+  "products": {
+    "hero": {
+      "crumb": "Productos",
+      "eyebrow": "Gama mayorista",
+      "title": "Nuestros productos de sal rosa del Himalaya",
+      "text": "Ocho categorías de exportación, cada una disponible en varias calidades, tamaños y formatos de embalaje. Solicite la lista de precios completa y las especificaciones."
+    },
+    "navLabel": "Categorías de productos",
+    "cta": {
+      "title": "¿Necesita un contenedor mixto?",
+      "text": "Combine sal comestible, lámparas, placas y otros productos en un solo envío. Le ayudamos a planificar cantidades y embalaje."
+    }
+  },
+  "privateLabel": {
+    "hero": {
+      "crumb": "Marca blanca",
+      "eyebrow": "OEM · Su marca",
+      "title": "Su marca. Nuestra sal rosa del Himalaya.",
+      "text": "Lance o amplíe una línea de sal rosa del Himalaya con su propia marca. Nosotros nos encargamos del abastecimiento, la clasificación, el embalaje y la exportación; usted se centra en vender."
+    },
+    "intro": {
+      "eyebrow": "De qué nos encargamos",
+      "title": "Todo, desde la sal hasta el producto listo para el lineal",
+      "lead": "Envíenos su briefing, su diseño y su mercado objetivo. Nosotros nos ocupamos del resto.",
+      "imageAlt": "Tarros de sal con tapas doradas",
+      "badgeTitle": "MOQ iniciales bajos",
+      "badgeText": "Tiradas de prueba disponibles para nuevas marcas",
+      "items": [
+        "Selección de productos: sal rosa, blanca o negra, lámparas, placas y sal de baño",
+        "Tamaño de grano y peso adaptados a su envase",
+        "Abastecimiento de envases e impresión con su diseño",
+        "Etiquetado con códigos de barras e información para su mercado",
+        "Muestras para aprobación antes de la producción en serie",
+        "Paletizado, documentos de exportación y envío"
+      ]
+    },
+    "formats": {
+      "eyebrow": "Formatos de envase",
+      "title": "Envasado a su manera",
+      "items": [
+        {
+          "title": "Bolsas doypack",
+          "text": "Bolsas resellables kraft o impresas de 250 g a 5 kg, con o sin ventana."
+        },
+        {
+          "title": "Tarros y molinillos",
+          "text": "Tarros de vidrio y PET, molinillos recargables y saleros, etiquetados con su diseño."
+        },
+        {
+          "title": "Cajas de regalo y venta minorista",
+          "text": "Cajas impresas para lámparas, portavelas, placas de cocina y sets de regalo."
+        },
+        {
+          "title": "A granel para reenvasado",
+          "text": "Sacos de PP de 25 kg y big bags de 1 MT si envasa en sus propias instalaciones."
+        },
+        {
+          "title": "Etiquetas y códigos de barras",
+          "text": "Sus etiquetas, impresas o aplicadas por nosotros, con códigos de barras y los datos que exija su mercado."
+        },
+        {
+          "title": "Contenedores mixtos",
+          "text": "Combine varias SKU de marca blanca en un solo envío para mantener un inventario ajustado."
+        }
+      ]
+    },
+    "steps": {
+      "eyebrow": "Cuatro pasos sencillos",
+      "title": "Cómo funciona la marca blanca",
+      "items": [
+        {
+          "title": "Envíe su briefing",
+          "text": "Productos, tamaños de envase, mercado objetivo y volúmenes previstos."
+        },
+        {
+          "title": "Muestras y cotización",
+          "text": "Le enviamos muestras y una cotización detallada con los costes de embalaje."
+        },
+        {
+          "title": "Aprobación del diseño",
+          "text": "Confirmamos con usted las pruebas de etiquetas y envases antes de imprimir."
+        },
+        {
+          "title": "Producción y envío",
+          "text": "Producción, fotos de la inspección final y exportación hasta su puerto."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Lance su marca de sal rosa del Himalaya",
+      "text": "Háblenos de su marca y su mercado. Le recomendaremos productos y envases y le enviaremos muestras."
+    }
+  },
+  "contact": {
+    "hero": {
+      "crumb": "Contacto",
+      "eyebrow": "Contáctenos",
+      "title": "Solicite una cotización",
+      "text": "Cuéntenos qué necesita. Nuestro equipo de exportación suele responder en un día hábil, y aún más rápido por WhatsApp."
+    },
+    "details": {
+      "eyebrow": "Datos de contacto",
+      "title": "Hable con nuestro equipo de exportación",
+      "lead": "Llámenos, escríbanos o visítenos. Con gusto le enviamos fotos, vídeos y muestras antes de que haga su pedido.",
+      "whatsapp": "WhatsApp",
+      "phone": "Teléfono",
+      "email": "Correo electrónico",
+      "address": "Dirección",
+      "hours": "Horario de atención"
+    },
+    "formTitle": "Solicitud de cotización",
+    "requiredNote": "Los campos marcados con * son obligatorios.",
+    "map": {
+      "eyebrow": "Dónde estamos",
+      "iframeTitle": "Mapa de Small Industrial Estate, Jhelum"
+    }
+  },
+  "form": {
+    "name": "Nombre completo",
+    "company": "Empresa",
+    "email": "Correo electrónico",
+    "phone": "Teléfono / WhatsApp",
+    "country": "País",
+    "product": "Producto de interés",
+    "quantity": "Cantidad estimada",
+    "quantityPlaceholder": "p. ej., 1 contenedor de 20 ft, 5 toneladas, 2000 lámparas",
+    "message": "Mensaje",
+    "messagePlaceholder": "Calidades, tamaños, embalaje, puerto de destino, precio objetivo…",
+    "send": "Enviar consulta",
+    "sending": "Enviando…",
+    "sendWhatsApp": "Enviar por WhatsApp",
+    "note": "Solo utilizamos sus datos para responder a su consulta.",
+    "optionPrivateLabel": "Marca blanca / OEM",
+    "optionMixed": "Contenedor mixto",
+    "optionOther": "Otro",
+    "errors": {
+      "name": "Introduzca su nombre",
+      "email": "Introduzca una dirección de correo electrónico válida",
+      "country": "Introduzca su país",
+      "message": "Añada algunos detalles (al menos 10 caracteres)"
+    },
+    "successTitle": "¡Gracias! Su consulta se ha enviado.",
+    "successText": "Nuestro equipo de exportación le responderá en un día hábil.",
+    "errorTitle": "Lo sentimos, no se ha podido enviar el formulario en este momento.",
+    "errorText": "Envíela por WhatsApp o por correo electrónico a {email}.",
+    "whatsappAction": "WhatsApp",
+    "confirm": {
+      "title": "Revise sus datos",
+      "text": "Le responderemos a esta dirección de correo electrónico. ¿Es correcta?",
+      "suggestion": "¿Quiso decir {email}?",
+      "useSuggestion": "Sí, usar esta",
+      "summary": "Su consulta",
+      "edit": "Editar datos",
+      "send": "Sí, enviar consulta",
+      "close": "Cerrar"
+    },
+    "sentText": "Le responderemos a {email} en un plazo de un día hábil.",
+    "sendAnother": "Enviar otra consulta"
+  },
+  "notFound": {
+    "eyebrow": "Error 404",
+    "title": "No se ha encontrado esta página",
+    "text": "Es posible que el enlace no funcione o que la página se haya movido.",
+    "home": "Volver al inicio",
+    "products": "Ver productos"
+  }
+}
